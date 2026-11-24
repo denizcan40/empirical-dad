@@ -1,0 +1,25 @@
+{
+ "n": 71,
+ "key": "day071",
+ "title": "Day 71 · Week 10, Day 1 — Brain: the metal in the wiring — iron for energy, myelin and dopamine, the blood count from the first visit, fifty-seven trials, and the half-million Swedish children",
+ "week": "Week 10, Day 1",
+ "summary": "Iron and the unfinished brain. The developing brain can use up to 60% of total metabolic rate, and iron runs three of its jobs — mitochondrial energy, myelination by oligodendrocytes, and dopamine synthesis — with the hippocampus especially exposed (Barks & Georgieff 2018). Most fetal iron moves in the third trimester, but reserves are set now; when iron is short the fetus favours red cells over brain, so anemia is a late sign. Prevalence: 18% of US pregnant women iron deficient, 29.7% in the third trimester (NHANES); >80% by the third trimester in an Irish cohort of 641. ACOG PB 233: CBC in the first trimester and at 24–28 weeks, anemia thresholds Hb <11/10.5/11 g/dL, ferritin <30 µg/L consistent with deficiency, low-dose iron for nearly all. Cochrane 2024 (57 trials, 48,971 women): iron-deficiency anemia at term 5.0% vs 18.4%, low birth weight 5.2% vs 6.1%, no child-brain outcome. Wiegersma 2019 (532,232 Swedish children): anemia diagnosed ≤30 weeks linked to intellectual disability (OR 2.20), autism (1.44) and ADHD (1.37); later anemia was not. The USPSTF 2024 'insufficient' statement and why it doesn't contradict ACOG; RDA 27 mg, UL 45 mg, nausea from iron, alternate-day dosing as emerging, food pairing with vitamin C, and why liver is off the menu.",
+ "action": "Open the patient portal and find the first-visit blood count. Write the haemoglobin and, if present, the ferritin on the lab page of the Day 61 pregnancy file. If haemoglobin is under 11 g/dL or no ferritin was measured, add to the Questions page: 'Was ferritin checked, and should she be on more than the prenatal's iron?' Check the iron line on the prenatal label, and note if the vitamin is worsening her nausea.",
+ "sources": [
+  "Barks A, Hall AM, Tran PV, Georgieff MK. Iron as a model nutrient for understanding the nutritional origins of neuropsychiatric disease. Pediatr Res 2019;85:176–182 (online 2018). https://pmc.ncbi.nlm.nih.gov/articles/PMC6353667/",
+  "Schwarzenberg SJ, Georgieff MK; AAP Committee on Nutrition. Advocacy for improving nutrition in the first 1000 days to support childhood development and adult health. Pediatrics 2018;141:e20173716.",
+  "NIH Office of Dietary Supplements — Iron: Fact Sheet for Health Professionals. https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/",
+  "McCarthy EK, Schneck D, Basu S, Xenopoulos-Oddsson A, Georgieff MK, et al. Longitudinal evaluation of iron status during pregnancy. Am J Clin Nutr 2024. https://med.umn.edu/obgyn/news/new-study-co-led-midb-researchers-and-obgyn-faculty-highlights-prevalence-and-risks-iron-deficiency-during-pregnancy",
+  "ACOG Practice Bulletin No. 233. Anemia in Pregnancy. Obstet Gynecol 2021;138:e55–e64. https://pubmed.ncbi.nlm.nih.gov/34293767/",
+  "Finkelstein JL, Cuthbert A, Weeks J, et al. Daily oral iron supplementation during pregnancy. Cochrane Database Syst Rev 2024;8:CD004736. https://www.cochrane.org/CD004736",
+  "Wiegersma AM, Dalman C, Lee BK, Karlsson H, Gardner RM. Association of prenatal maternal anemia with neurodevelopmental disorders. JAMA Psychiatry 2019;76:1294–1304. https://contemporaryobgyn.net/view/does-maternal-anemia-affect-fetal-neurodevelopment",
+  "US Preventive Services Task Force. Screening and supplementation for iron deficiency and iron deficiency anemia during pregnancy: recommendation statement. JAMA 2024;332:906–913. https://pubmed.ncbi.nlm.nih.gov/39163015/",
+  "Stoffel NU, Cercamondi CI, Brittenham G, et al. Iron absorption from oral iron supplements given on consecutive versus alternate days and as single morning doses versus twice-daily split dosing in iron-depleted women: two open-label, randomised controlled trials. Lancet Haematol 2017;4:e524–e533.",
+  "NHS — Foods to avoid in pregnancy (liver, pâté, vitamin A). https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+ ],
+ "audio": "audio/day071.mp3",
+ "bytes": 5797293,
+ "seconds": 1449,
+ "sha256": "6dc4bccc6e02a0067d3ea2d921cf53d5abf7de6958305bf9ccd600f80e9de045",
+ "added": "2026-11-24T07:35:08Z"
+}

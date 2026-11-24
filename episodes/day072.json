@@ -1,0 +1,27 @@
+{
+ "n": 72,
+ "key": "day072",
+ "title": "Day 72 · Week 10, Day 2 — Physiology: the weight — where twelve kilograms actually go, the four ranges, the flat first trimester, the one woman in three who lands in range, and what a million pregnancies say about missing it",
+ "week": "Week 10, Day 2",
+ "summary": "Weight gain in pregnancy, built from the parts. Hytten's classic breakdown of a ~12.5 kg gain: baby 3.4 kg, placenta ~0.65, amniotic fluid ~0.8, uterus ~1, breasts ~0.4, extra blood ~1.25, tissue fluid ~1.7 and ~3.3 kg of fat laid down as a reserve for late pregnancy and breastfeeding — so the baby is only about a quarter of it. Why the first trimester should be nearly flat (0.5–2 kg total; mild loss with nausea is common, but >5% loss is an RCOG marker of hyperemesis). The IOM 2009 ranges adopted by ACOG and CDC (28–40, 25–35, 15–25 and 11–20 lb by pre-pregnancy BMI; about a pound a week from the second trimester at normal weight) and the calorie numbers that replace 'eating for two' (0, ~340, ~450 extra a day). Only about one US woman in three lands in range and nearly half gain more (CDC MMWR 2015). Goldstein's JAMA 2017 meta-analysis of 1.3 million pregnancies gives the risks both ways with absolute differences; the LifeCycle IPD meta-analysis (196,670 women) shows starting weight carries most of the risk and the gain range is a weak individual predictor; Nehring 2011 shows ~3 kg more retained at 3 years. Cochrane (49 trials, 11,444 women) and Teede 2022 (117 trials, 34,546 women): diet and activity programmes cut excessive gain by ~20% and gestational diabetes by ~20%. NICE's no-routine-reweighing approach versus US practice, and why the dad's job is the kitchen and the calendar, never the scale.",
+ "action": "Find the booking weight and height on the first-visit record (or ask your partner if she'd rather tell you), work out the BMI category, and write the category and its IOM range on the lab page of the Day 61 pregnancy file next to yesterday's two numbers. Then close the file — the scale is the clinic's job. Yours this week: cook one dinner she can actually eat, and offer a walk afterwards.",
+ "sources": [
+  "Institute of Medicine and National Research Council; Rasmussen KM, Yaktine AL, eds. Weight Gain During Pregnancy: Reexamining the Guidelines. Washington, DC: National Academies Press; 2009.",
+  "Hytten F. Weight gain in pregnancy. In: Hytten F, Chamberlain G, eds. Clinical Physiology in Obstetrics. 2nd ed. Oxford: Blackwell; 1991:173–203.",
+  "ACOG Committee Opinion No. 548: Weight gain during pregnancy. Obstet Gynecol 2013;121:210–212. https://pubmed.ncbi.nlm.nih.gov/23262962/",
+  "CDC — Weight Gain During Pregnancy. https://www.cdc.gov/maternal-infant-health/pregnancy-weight/index.html",
+  "Deputy NP, Sharma AJ, Kim SY. Gestational Weight Gain — United States, 2012 and 2013. MMWR 2015;64:1215–1220. https://pubmed.ncbi.nlm.nih.gov/26540367/",
+  "Goldstein RF, Abell SK, Ranasinha S, et al. Association of Gestational Weight Gain With Maternal and Infant Outcomes: A Systematic Review and Meta-analysis. JAMA 2017;317:2207–2225. https://pubmed.ncbi.nlm.nih.gov/28586887/",
+  "LifeCycle Project-Maternal Obesity and Childhood Outcomes Study Group; Voerman E, Santos S, Inskip H, et al. Association of Gestational Weight Gain With Adverse Maternal and Infant Outcomes. JAMA 2019;321:1702–1715. https://pubmed.ncbi.nlm.nih.gov/31063572/",
+  "Nehring I, Schmoll S, Beyerlein A, Hauner H, von Kries R. Gestational weight gain and long-term postpartum weight retention: a meta-analysis. Am J Clin Nutr 2011;94:1225–1231. https://pubmed.ncbi.nlm.nih.gov/21918221/",
+  "Muktabhant B, Lawrie TA, Lumbiganon P, Laopaiboon M. Diet or exercise, or both, for preventing excessive weight gain in pregnancy. Cochrane Database Syst Rev 2015;CD007145. https://pubmed.ncbi.nlm.nih.gov/26068707/",
+  "Teede HJ, Bailey C, Moran LJ, et al. Association of Antenatal Diet and Physical Activity-Based Interventions With Gestational Weight Gain and Pregnancy Outcomes: A Systematic Review and Meta-analysis. JAMA Intern Med 2022;182:106–114. https://pubmed.ncbi.nlm.nih.gov/34928300/",
+  "Royal College of Obstetricians and Gynaecologists. The Management of Nausea and Vomiting of Pregnancy and Hyperemesis Gravidarum. Green-top Guideline No. 69 (2016).",
+  "NICE. Weight management before, during and after pregnancy. Public health guideline PH27 (2010)."
+ ],
+ "audio": "audio/day072.mp3",
+ "bytes": 5553453,
+ "seconds": 1388,
+ "sha256": "a603f243861c0798e6605252b86e3a09333e37c5470d612632d6aa5a3901ba4b",
+ "added": "2026-11-24T07:35:08Z"
+}
