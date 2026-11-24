@@ -1,0 +1,25 @@
+{
+ "n": 70,
+ "key": "day070",
+ "title": "Day 70 · Week 10, Day 0 — Body: embryo to fetus — the organ inventory, the window that has mostly closed, the risk curve after a normal scan, and the sickness that peaks before it breaks",
+ "week": "Week 10, Day 0",
+ "summary": "The day the embryo becomes a fetus: day 56 after fertilization, the end of Carnegie stage 23, about 30 mm and a few grams, heart at ~180 bpm, milk-tooth buds in the jaw. What the change of name marks (organogenesis ends; growth and maturation begin — a roughly thousand-fold weight gain to term) and a system-by-system inventory: heart, limbs, face, gut and kidneys built in plan; palate and genitals finishing; lungs and brain present and far from done. The teratology windows (all-or-none, embryonic, fetal) and why the Day 54 medication rules still stand. Tong 2008: after a normal scan with a heartbeat in 696 asymptomatic women, later miscarriage risk fell from 9.4% at 6 weeks to 0.5–0.7% at 9–10 weeks, with age and bleeding changing the numbers. Lacroix 2000: nausea in 74%, morning-only in 1.8%, peaking at 11–13 weeks, resolved in half by 14 weeks and 90% by 22. Red flags for hyperemesis, and why the FDA advises against home Dopplers.",
+ "action": "Offer to keep a four-week sickness log on your phone so she doesn't have to: one line a day — nausea 0–10, number of vomits, fluids kept down yes/no. If it isn't easing by about 14 weeks (Day 98), or any red flag appears (no fluids kept down for a day, weight loss, dark or scant urine, dizziness on standing, blood in vomit), take the log to the practice.",
+ "sources": [
+  "O'Rahilly R, Müller F. Developmental stages in human embryos: revised and new measurements. Cells Tissues Organs 2010;192:73–84. https://pubmed.ncbi.nlm.nih.gov/20185898/",
+  "NHS — You and your baby at 10 weeks pregnant. https://www.nhs.uk/pregnancy/week-by-week/1-to-12/10-weeks/",
+  "MedlinePlus — Fetal development. https://medlineplus.gov/ency/article/002398.htm",
+  "Moore KL, Persaud TVN, Torchia MG. The Developing Human: Clinically Oriented Embryology. Elsevier (critical periods of human development). See also WikiLectures — Teratogenesis, teratogens and critical periods. https://www.wikilectures.eu/w/Teratogenesis,_teratogens_and_critical_periods",
+  "Tong S, Kaur A, Walker SP, Bryant V, Onwude JL, Permezel M. Miscarriage risk for asymptomatic women after a normal first-trimester prenatal visit. Obstet Gynecol 2008;111:710–714. https://pubmed.ncbi.nlm.nih.gov/18310375/",
+  "Magnus MC, Wilcox AJ, Morken NH, Weinberg CR, Håberg SE. Role of maternal age and pregnancy history in risk of miscarriage: prospective register based study. BMJ 2019;364:l869. https://pubmed.ncbi.nlm.nih.gov/30894356/",
+  "ACOG Practice Bulletin No. 200. Early Pregnancy Loss. Obstet Gynecol 2018;132:e197–e207.",
+  "Lacroix R, Eason E, Melzack R. Nausea and vomiting during pregnancy: a prospective study of its frequency, intensity, and patterns of change. Am J Obstet Gynecol 2000;182:931–937. https://pubmed.ncbi.nlm.nih.gov/10764476/",
+  "Royal College of Obstetricians and Gynaecologists. The Management of Nausea and Vomiting of Pregnancy and Hyperemesis Gravidarum. Green-top Guideline No. 69 (2016).",
+  "US FDA. Avoid fetal 'keepsake' images, heartbeat monitors (consumer update, 2014); FDA Drug Safety Communication on NSAIDs at 20 weeks or later in pregnancy (2020)."
+ ],
+ "audio": "audio/day070.mp3",
+ "bytes": 5440269,
+ "seconds": 1360,
+ "sha256": "39f391dbd659d3ce9578b4b1d4e189dcb9d63cd6fbbd8df90207cab63bb3364c",
+ "added": "2026-11-24T07:17:44Z"
+}

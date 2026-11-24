@@ -1,0 +1,27 @@
+{
+ "n": 69,
+ "key": "day069",
+ "title": "Day 69 · Week 9, Day 6 — Myths: boy or girl — the heartbeat over a hundred and forty, the basketball bump, the lunar calendar tested on 2.8 million births, timing and cereal, the ring on a thread, and the one piece of folklore that is partly true",
+ "week": "Week 9, Day 6",
+ "summary": "The sex-prediction folklore, each myth against the study that tested it. Where your baby is: Carnegie stage 23, ~30 mm, the last day of the embryonic period, with SRY switching the gonads at 6–7 weeks post-fertilization and the external anatomy not yet readable. The sex ratio at conception is 0.5 (Orzack 2015), so every method is right half the time. Heart rate: no sex difference in 212 pregnancies across 2,261 visits (Genuis 1996) or in 477 first-trimester scans (girls 151.7 vs boys 154.9 bpm; McKenna 2006) — it tracks age, not sex. Bump shape and morning-sickness folklore failed in 104 women (Perry 1999), and maternal intuition was no better than chance (Genuis 1996). The Chinese lunar calendar on 2,840,755 Swedish births: kappa 0.0002 (Villamor 2010). Timing of intercourse made no difference (Wilcox 1995, NEJM). The breakfast-cereal finding (Mathews 2008) was most likely a multiple-testing false positive (Young 2009). The ring on a thread, urine chemistry (and the drain-cleaner hazard) and the six-week placenta method have no published validation. The partly true one: severe sickness is linked to girls (54.1% vs 48.7% overall; Mitsuda 2019; Askling 1999) — a real association and still a nearly useless predictor.",
+ "action": "For fun: tonight each of you writes a boy/girl guess and the method behind it (heartbeat, bump, dream, calendar, a real coin toss); add two grandparents' guesses and methods. Seal them in an envelope dated Day 69, put it in the back of the Day 61 pregnancy file, and open it the day you find out.",
+ "sources": [
+  "O'Rahilly R, Müller F. Developmental stages in human embryos: revised and new measurements. Cells Tissues Organs 2010;192:73–84. https://pubmed.ncbi.nlm.nih.gov/20185898/",
+  "Orzack SH, Stubblefield JW, Akmaev VR, et al. The human sex ratio from conception to birth. Proc Natl Acad Sci U S A 2015;112:E2102–E2111. https://pubmed.ncbi.nlm.nih.gov/25825766/",
+  "Genuis S, Genuis SK, Chang WC. Antenatal fetal heart rate and 'maternal intuition' as predictors of fetal sex. J Reprod Med 1996;41:447–449. https://pubmed.ncbi.nlm.nih.gov/8799924/",
+  "McKenna DS, Ventolini G, Neiger R, Downing C. Gender-related differences in fetal heart rate during first trimester. Fetal Diagn Ther 2006;21:144–147. https://pubmed.ncbi.nlm.nih.gov/16354993/",
+  "Perry DF, DiPietro J, Costigan K. Are women carrying 'basketballs' really having boys? Testing pregnancy folklore. Birth 1999;26:172–177. https://pubmed.ncbi.nlm.nih.gov/10655817/",
+  "Villamor E, Dekker L, Svensson T, Cnattingius S. Accuracy of the Chinese lunar calendar method to predict a baby's sex: a population-based study. Paediatr Perinat Epidemiol 2010;24:398–400. https://pubmed.ncbi.nlm.nih.gov/20618730/",
+  "Wilcox AJ, Weinberg CR, Baird DD. Timing of sexual intercourse in relation to ovulation. Effects on the probability of conception, survival of the pregnancy, and sex of the baby. N Engl J Med 1995;333:1517–1521. https://pubmed.ncbi.nlm.nih.gov/7477165/",
+  "Mathews F, Johnson PJ, Neil A. You are what your mother eats: evidence for maternal preconception diet influencing foetal sex in humans. Proc Biol Sci 2008;275:1661–1668. https://pubmed.ncbi.nlm.nih.gov/18430648/",
+  "Young SS, Bang H, Oktay K. Cereal-induced gender selection? Most likely a multiple testing false positive. Proc Biol Sci 2009;276:1211–1212. https://pubmed.ncbi.nlm.nih.gov/19141426/",
+  "Askling J, Erlandsson G, Kaijser M, Akre O, Ekbom A. Sickness in pregnancy and sex of child. Lancet 1999;354:2053. https://pubmed.ncbi.nlm.nih.gov/10636378/",
+  "Mitsuda N, Eitoku M, Maeda N, Fujieda M, Suganuma N. Severity of nausea and vomiting in singleton and twin pregnancies in relation to fetal sex: the Japan Environment and Children's Study (JECS). J Epidemiol 2019;29:340–346.",
+  "Devaney SA, Palomaki GE, Scott JA, Bianchi DW. Noninvasive fetal sex determination using cell-free fetal DNA: a systematic review and meta-analysis. JAMA 2011;306:627–636. https://pubmed.ncbi.nlm.nih.gov/21828326/"
+ ],
+ "audio": "audio/day069.mp3",
+ "bytes": 5410605,
+ "seconds": 1353,
+ "sha256": "bb75db5660c5b84334211d704fdf5df1cf068d60d71158efe692d49af7a5a609",
+ "added": "2026-11-24T07:17:44Z"
+}
