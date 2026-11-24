@@ -1,0 +1,24 @@
+{
+ "n": 77,
+ "key": "day077",
+ "title": "Day 77 · Week 11, Day 0 — Body: the scan window opens — a fetus the size of a fig, why the look waits until now, the fluid behind the neck, and what a hundred thousand first-trimester scans could and couldn't find",
+ "week": "Week 11, Day 0",
+ "summary": "Week eleven, and the 11–14-week scan window (ISUOG 2023: 11+0 to 14+0 weeks; FMF: crown-rump length 45–84 mm) opens today and closes on Day 98. Your baby is about 41 mm, the size of a fig, with four heart chambers, a visible stomach and bladder, and the gut back inside the abdomen. Why the window is set by the body: physiological gut herniation has resolved (so exomphalos can be diagnosed), the skull is mineralizing (so acrania can be seen), the neck fluid is measurable, and the fetus is big enough. What nuchal translucency is and the hypotheses for it (lymphatic, cardiac, connective tissue). With normal chromosomes, the chance of a baby alive and well falls from ~93% at the 95th–99th centile to ~15% at ≥6.5 mm (Souka 2005); heart defects rise from 0.8 to ~63 per 1,000 as NT thickens (Hyett 1999, 29,154 fetuses). The nasal bone as a soft marker (Cicero 2001: absent in 73% of trisomy 21 vs 0.5%). The first-trimester anatomy check: in 100,997 pregnancies, 1.7% had a structural anomaly and 27.6% of these were found at 11–13 weeks — some always (acrania, holoprosencephaly, abdominal-wall defects), some rarely (VSDs, cleft lip, late brain findings) (Syngelaki 2019); 46% of major anomalies in low-risk populations, higher with a checklist (Karim 2017). What happens after a finding, and the three questions to ask at the scan.",
+ "action": "Check that the 11–14-week scan is booked for a date between today and Day 97; if not, call the practice tomorrow. Write three questions on the scans page of the pregnancy file: Was the full anatomy check done? What was the NT and is it normal for the crown-rump length? Is there anything to recheck, and when?",
+ "sources": [
+  "NHS — You and your baby at 11 weeks pregnant. https://www.nhs.uk/pregnancy/week-by-week/1-to-12/11-weeks/",
+  "MedlinePlus — Fetal development. https://medlineplus.gov/ency/article/002398.htm",
+  "ISUOG Practice Guidelines (updated): performance of 11–14-week ultrasound scan. Ultrasound Obstet Gynecol 2023;61:127–143. https://www.isuog.org/resource/updated-isuog-practice-guidelines-performance-of-11-14-week-ultrasound-scan.html",
+  "Souka AP, von Kaisenberg CS, Hyett JA, Sonek JD, Nicolaides KH. Increased nuchal translucency with normal karyotype. Am J Obstet Gynecol 2005;192:1005–1021.",
+  "Hyett J, Perdu M, Sharland G, Snijders R, Nicolaides KH. Using fetal nuchal translucency to screen for major congenital cardiac defects at 10–14 weeks of gestation: population based cohort study. BMJ 1999;318:81–85.",
+  "Cicero S, Curcio P, Papageorghiou A, Sonek J, Nicolaides K. Absence of nasal bone in fetuses with trisomy 21 at 11–14 weeks of gestation: an observational study. Lancet 2001;358:1665–1667. https://pubmed.ncbi.nlm.nih.gov/11728540/",
+  "Syngelaki A, Hammami A, Bower S, Zidere V, Akolekar R, Nicolaides KH. Diagnosis of fetal non-chromosomal abnormalities on routine ultrasound examination at 11–13 weeks' gestation. Ultrasound Obstet Gynecol 2019;54:468–476. https://pubmed.ncbi.nlm.nih.gov/31408229/",
+  "Karim JN, Roberts NW, Salomon LJ, Papageorghiou AT. Systematic review of first-trimester ultrasound screening for detection of fetal structural anomalies and factors that affect screening performance. Ultrasound Obstet Gynecol 2017;50:429–441. https://pubmed.ncbi.nlm.nih.gov/27546497/",
+  "AIUM Practice Parameter for the Performance of Fetal Echocardiography. J Ultrasound Med 2020;39:E5–E16."
+ ],
+ "audio": "audio/day077.mp3",
+ "bytes": 5145453,
+ "seconds": 1286,
+ "sha256": "7874a9646cd0cc8db18f4e4f48ecbce49a71ba5426715f5cb091bab2178c8b36",
+ "added": "2026-11-24T08:20:35Z"
+}
