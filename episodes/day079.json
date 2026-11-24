@@ -1,0 +1,25 @@
+{
+ "n": 79,
+ "key": "day079",
+ "title": "Day 79 · Week 11, Day 2 — Physiology: her skin — the dark line, the mask and the sunscreen trial, what altitude and snow add, six trials of stretch-mark creams, and the itch without a rash that changes the birth plan",
+ "week": "Week 11, Day 2",
+ "summary": "Why pregnancy changes the skin: placental oestrogen, progesterone and melanocyte-stimulating signals, a larger blood volume, and rapid stretch. Pigment changes are near-universal (93% in a 2026 cross-sectional study): linea nigra, darker areolae, darkening moles (a markedly changing mole still needs checking) and melasma, which needs ultraviolet light — in one Moroccan study daily SPF 50+ broad-spectrum sunscreen cut new cases to 2.7% against a historical 53% (Lakhdar 2007, historical control). WHO: UV rises ~10% per 1,000 m and fresh snow reflects up to 80%. Palmar erythema and spider angiomas are oestrogen effects. Stretch marks affected 52% of 309 first-time mothers, more often younger women and those with higher BMI, more weight gain or a heavier baby (Atwal 2006); across six trials and 800 women no topical preparation clearly prevented them (Cochrane, RR 0.74, 0.53–1.03). Postpartum shedding at 2–4 months is normal. Intrahepatic cholestasis of pregnancy — itch on palms and soles, no rash, worse at night — affects ~0.7% in the UK; stillbirth risk tracks peak bile acids: 0.13% below 40 µmol/L, 0.28% at 40–99, 3.44% at ≥100 (Ovadia 2019, IPD 5,269 women), which sets the timing of birth; ursodeoxycholic acid did not reduce adverse outcomes (PITCHES, 605 women).",
+ "action": "Add under the red flags in the pregnancy file: \"Itching on palms or soles, no rash, worse at night: call the practice that week and ask for bile acids and liver function tests.\" Put a broad-spectrum SPF 50 sunscreen in the travel bag and a second by the front door.",
+ "sources": [
+  "Bagra D, Ghosh D, Biswas S, et al. Dermatoses in pregnancy: a hospital-based cross-sectional study from Eastern India. Cureus 2026;18:e110780. https://pubmed.ncbi.nlm.nih.gov/42445635/",
+  "Lakhdar H, Zouhair K, Khadir K, et al. Evaluation of the effectiveness of a broad-spectrum sunscreen in the prevention of chloasma in pregnant women. J Eur Acad Dermatol Venereol 2007;21:738–742. https://pubmed.ncbi.nlm.nih.gov/17567299/",
+  "World Health Organization. Global Solar UV Index: A Practical Guide. WHO, 2002. https://www.who.int/publications/i/item/9241590076",
+  "Atwal GS, Manku LK, Griffiths CE, Polson DW. Striae gravidarum in primiparae. Br J Dermatol 2006;155:965–969. https://pubmed.ncbi.nlm.nih.gov/17034526/",
+  "Brennan M, Young G, Devane D. Topical preparations for preventing stretch marks in pregnancy. Cochrane Database Syst Rev 2012;11:CD000066. https://pubmed.ncbi.nlm.nih.gov/23152199/",
+  "American Academy of Dermatology. Hair loss: new moms (postpartum hair loss). https://www.aad.org/public/diseases/hair-loss/insider/new-moms",
+  "Girling J, Knight CL, Chappell L; Royal College of Obstetricians and Gynaecologists. Intrahepatic cholestasis of pregnancy. Green-top Guideline No. 43. BJOG 2022;129:e95–e114.",
+  "Ovadia C, Seed PT, Sklavounos A, et al. Association of adverse perinatal outcomes of intrahepatic cholestasis of pregnancy with biochemical markers: results of aggregate and individual patient data meta-analyses. Lancet 2019;393:899–909. https://pubmed.ncbi.nlm.nih.gov/30773280/",
+  "Chappell LC, Bell JL, Smith A, et al. Ursodeoxycholic acid versus placebo in women with intrahepatic cholestasis of pregnancy (PITCHES): a randomised controlled trial. Lancet 2019;394:849–860.",
+  "Ovadia C, Sajous J, Seed PT, et al. Ursodeoxycholic acid in intrahepatic cholestasis of pregnancy: a systematic review and individual participant data meta-analysis. Lancet Gastroenterol Hepatol 2021;6:547–558. https://pubmed.ncbi.nlm.nih.gov/33915090/"
+ ],
+ "audio": "audio/day079.mp3",
+ "bytes": 5640717,
+ "seconds": 1410,
+ "sha256": "a1aed2a3c1440c9f6976b359be1effe99c1afa679ad9b5a431b85f0e9778fc93",
+ "added": "2026-11-24T08:40:17Z"
+}
