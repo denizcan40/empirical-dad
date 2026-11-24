@@ -1,0 +1,25 @@
+{
+ "n": 81,
+ "key": "day081",
+ "title": "Day 81 · Week 11, Day 4 — Adventure: water — what immersion does to a pregnant body, seventy-four thousand Danish swimmers, the cold plunge with four studies behind it, the surf break after twelve weeks, and the tank that stays on the boat",
+ "week": "Week 11, Day 4",
+ "summary": "Water, the friendliest environment of the pregnancy. Your baby, about 4.5–5 cm, already lives afloat at body temperature. Immersion physiology (Katz 1996): hydrostatic pressure shifts tissue fluid back into the circulation (less swelling, a diuresis), buoyancy takes the load off loosening joints and removes most fall risk, and water draws heat away about 25 times faster than air — heart rate, blood pressure and fetal heart-rate changes are lower during water exercise than on land. ACOG Committee Opinion 804 lists swimming and water aerobics as safe to start or continue. The chlorine question: in the Danish National Birth Cohort (74,486 pregnancies), swimming showed no harm, with preterm birth HR 0.80 and malformations OR 0.89 versus non-exercisers and results matching cyclists (Juhl 2010). Hot tubs and hot springs reverse the logic (Day 48). Open water: currents, company, turning back early, water quality after heavy rain, and ultraviolet reflection (Day 79). Cold water: the cold shock response and its habituation after about four immersions (Barwood 2024 meta-analysis); a 2025 consensus scoping review found only four studies on cold-water swimming in pregnancy, so not the time to start, and habituated swimmers go shorter, enter slowly and never alone (Shawe 2025). Surfing and water skiing are on ACOG's avoid list for falls; the pelvis protects the uterus until about 12–14 weeks; the board, the prone paddle and the abruption risk of blunt trauma. Scuba is a clear no: no lung filter for bubbles in the fetal circulation, and field data from 129 women and 1,465 dives too sparse to show safety (St Leger Dowse 2006; Reid & Lorenzo 2018). Snorkelling is fine.",
+ "action": "Add three lines to the pregnancy file: 'Swimming: yes, pool and open water with company.' 'Cold water: only if already habituated — short, slow entry, never alone; check with the OB if blood pressure is up.' 'No scuba until after the birth; snorkel instead.' Then look up the nearest pool's lap-swim times and put one swim in the calendar this week.",
+ "sources": [
+  "Katz VL. Water exercise in pregnancy. Semin Perinatol 1996;20:285–291. https://pubmed.ncbi.nlm.nih.gov/8888454/",
+  "American College of Obstetricians and Gynecologists. Physical Activity and Exercise During Pregnancy and the Postpartum Period. Committee Opinion No. 804. Obstet Gynecol 2020;135:e178–e188.",
+  "MotherToBaby — Exercise and Pregnancy fact sheet (activities to avoid: surfing, water skiing, jet skiing, scuba diving). https://mothertobaby.org/fact-sheets/exercise-pregnancy/",
+  "Juhl M, Kogevinas M, Andersen PK, Andersen AM, Olsen J. Is swimming during pregnancy a safe exercise? Epidemiology 2010;21:253–258. https://pubmed.ncbi.nlm.nih.gov/20110815/",
+  "Barwood MJ, Eglin C, Hills SP, Johnston N, Massey H, McMorris T, Tipton MJ. Habituation of the cold shock response: a systematic review and meta-analysis. J Therm Biol 2024;119:103775. https://pubmed.ncbi.nlm.nih.gov/38211547/",
+  "Shawe J, Felton M, Harper JC, Harper CM, Stidson R, Tipton M, et al., Massey H. Cold Water Swimming and Pregnancy: A Scoping Review and Consensus Recommendations. Lifestyle Medicine 2025;6:e70009. https://researchportal.plymouth.ac.uk/en/publications/cold-water-swimming-and-pregnancy-a-scoping-review-and-consensus-/",
+  "Gundle L, Atkinson A. Pregnancy, cold water swimming and cortisol: the effect of cold water swimming on obstetric outcomes. Med Hypotheses 2020;144:109977. https://pubmed.ncbi.nlm.nih.gov/32570161/",
+  "McGrath E, Shawe J. Sea swimming during pregnancy and matrescence: embodiment, experiences and the environment. Health Place 2025. https://pubmed.ncbi.nlm.nih.gov/41270331/",
+  "St Leger Dowse M, Gunby A, Moncad R, Fife C, Bryson P. Scuba diving and pregnancy: can we determine safe limits? J Obstet Gynaecol 2006;26:509–513. https://pubmed.ncbi.nlm.nih.gov/17000494/",
+  "Reid RL, Lorenzo M. SCUBA Diving in Pregnancy. J Obstet Gynaecol Can 2018;40:1490–1496. https://pubmed.ncbi.nlm.nih.gov/29503252/"
+ ],
+ "audio": "audio/day081.mp3",
+ "bytes": 5802957,
+ "seconds": 1451,
+ "sha256": "6fb9de46706d39d624149b1da385a819dfa5a653f8d6bac7d0ed11d6cf27b02f",
+ "added": "2026-11-24T08:58:10Z"
+}
