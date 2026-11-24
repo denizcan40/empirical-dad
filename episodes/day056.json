@@ -1,0 +1,33 @@
+{
+ "n": 56,
+ "key": "day056",
+ "title": "Day 56 · Week 8, Day 0 — Body: the week the body gets measured — a raspberry growing a millimetre a day, the first bone, the gut that lives in the cord, and the one number that can move the due date",
+ "week": "Week 8, Day 0",
+ "summary": "Week 8 opens with the fifth Body episode. Your baby is at the turn from Carnegie stage 17 to 18 (11–17 mm; the NHS's 16 mm raspberry), growing close to a millimetre a day: pigmented eyes with eyelid folds beginning, the nasolacrimal groove, auricular hillocks merging into an ear, coronary arteries connecting to the aorta, a liver prominence, notches cutting between the finger rays, a thigh, an ankle and a foot plate, the lip fused. The first bone: the clavicle's shaft ossifies first, its two centres merging around post-fertilization day 45, with the femur (~day 43) and tibia (~day 44) behind it, and limb ossification starting at stage 18 (UNSW/Keibel & Mall). Physiological midgut herniation — the gut in the cord — in essentially every embryo at 10 weeks and 5% at 12 (Bogers 2019, 112 women, 699 scans), so the bump at the cord is normal. Why the NHS says 'fetus' at 8 weeks and this show says Day 70. Then the crown-rump length in full: Robinson & Fleming's 1975 Glasgow curve (±4.7 days), Hadlock 1992 (416 pregnancies, ±8%), INTERGROWTH-21st (4,607 women, 8 countries, SD ~2.4 days rising with length), ACOG Committee Opinion 700's ±5–7 days and its redating thresholds (>5 days before 9 weeks, >7 from 9 to 13+6), and the rule that the earliest good scan sets the date and later scans measure size, not age. What early scanning changes (Cochrane 2015: post-term induction RR 0.59 in 25,516 women; undetected twins RR 0.07; perinatal death RR 0.89, no difference). How often the measurement is taken wrong (Jakubowski 2020: 40% of 806 images rated accurate; neutral position the criterion that changes the date) and the one question to ask. The NHS 10–14-week scan and the 45–84 mm window. Tong 2008: 1.5% loss after a heartbeat at 8 weeks. And the first quantitative test of the thesis: in 1,631 Generation R pregnancies, smoking without folic acid cost 3.84 mm of crown-rump length by the dating scan, and the smallest fifth had 2.1× the odds of preterm birth, 2.4× low birth weight and 2.6× SGA (Mook-Kanamori 2010).",
+ "action": "Ten minutes tonight with the Day 42 index card. On the back write 'CRL ___ mm, measured on Day ___, due date ___'. Find out which scan sets the date (this week's first visit or a later dating scan) and write that date on the Day 40 question sheet; if no scan is booked before Day 98, add question thirteen: will we have a dating scan before 14 weeks, and if not, why. At the scan, fill the blanks and ask one question: was the baby in a neutral position for that? Then write underneath: 'This is the due date. Later scans measure size, not age.'",
+ "sources": [
+  "UNSW Embryology — Carnegie stage 17 (days 42–44, CRL 11–14 mm). https://embryology.med.unsw.edu.au/embryology/index.php/Carnegie_stage_17",
+  "UNSW Embryology — Carnegie stage 18 (days 44–48, CRL 13–17 mm; eyelid, nasolacrimal groove, coronary arteries, chondrification of femur and tibia). https://embryology.med.unsw.edu.au/embryology/index.php/Carnegie_stage_18",
+  "UNSW Embryology — Musculoskeletal System: Bone Development Timeline (clavicle first to ossify; femur ~day 43, tibia ~day 44; limb ossification from stage 18). https://embryology.med.unsw.edu.au/embryology/index.php/Musculoskeletal_System_-_Bone_Development_Timeline",
+  "O'Rahilly R, Müller F. Developmental stages in human embryos: revised and new measurements. Cells Tissues Organs 2010;192:73–84. https://pubmed.ncbi.nlm.nih.gov/20185898/",
+  "NHS — You and your baby at 8 weeks pregnant. https://www.nhs.uk/pregnancy/week-by-week/1-to-12/8-weeks/",
+  "Bogers H, Baken L, Cohen-Overbeek TE, et al. Evaluation of first-trimester physiological midgut herniation using three-dimensional ultrasound. Fetal Diagn Ther 2019;45:332–338. https://karger.com/fdt/article/45/5/332/136501",
+  "Robinson HP, Fleming JE. A critical evaluation of sonar 'crown-rump length' measurements. Br J Obstet Gynaecol 1975;82:702–710.",
+  "Hadlock FP, Shah YP, Kanon DJ, Lindsey JV. Fetal crown-rump length: reevaluation of relation to menstrual age (5–18 weeks) with high-resolution real-time US. Radiology 1992;182:501–505.",
+  "Papageorghiou AT, Kennedy SH, Salomon LJ, et al. International standards for early fetal size and pregnancy dating based on ultrasound measurement of crown–rump length in the first trimester of pregnancy. Ultrasound Obstet Gynecol 2014;44:641–648. https://openaccess.sgul.ac.uk/id/eprint/107358/",
+  "ACOG Committee Opinion No. 700. Methods for Estimating the Due Date. Obstet Gynecol 2017;129:e150–e154. https://pubmed.ncbi.nlm.nih.gov/28426621/",
+  "Whitworth M, Bricker L, Mullan C. Ultrasound for fetal assessment in early pregnancy. Cochrane Database Syst Rev 2015;7:CD007058. https://cochranelibrary.com/cdsr/doi/10.1002/14651858.CD007058.pub3/information",
+  "Jakubowski D, Salloum D, Torbe A, Kwiatkowski S, Bednarek-Jedrzejek M. The crown-rump length measurement — ISUOG criteria and clinical practice. Ginekol Pol 2020;91:674–678. https://journals.viamedica.pl/ginekologia_polska/article/view/67940",
+  "Salomon LJ, Alfirevic Z, Bilardo CM, et al. ISUOG Practice Guidelines: performance of first-trimester fetal ultrasound scan. Ultrasound Obstet Gynecol 2013;41:102–113.",
+  "NHS — 12-week scan (dating scan at around 10 to 14 weeks). https://www.nhs.uk/pregnancy/your-pregnancy-care/12-week-scan/",
+  "GLOWM — Ultrasound biometry: pregnancy dating and assessment of fetal size and growth (CRL 45–84 mm window; HC above 84 mm). https://www.glowm.com/section-view/heading/Assessment-of-Gestational-Age-by-Ultrasound/item/206",
+  "Tong S, Kaur A, Walker SP, Bryant V, Onwude JL, Permezel M. Miscarriage risk for asymptomatic women after a normal first-trimester prenatal visit. Obstet Gynecol 2008;111:710–714.",
+  "Mook-Kanamori DO, Steegers EAP, Eilers PH, Raat H, Hofman A, Jaddoe VWV. Risk factors and outcomes associated with first-trimester fetal growth restriction. JAMA 2010;303:527–534. https://repub.eur.nl/pub/19502",
+  "Jukic AM, Baird DD, Weinberg CR, McConnaughey DR, Wilcox AJ. Length of human pregnancy and contributors to its natural variation. Hum Reprod 2013;28:2848–2855. https://pubmed.ncbi.nlm.nih.gov/23922246/"
+ ],
+ "audio": "audio/day056.mp3",
+ "bytes": 4683981,
+ "seconds": 1171,
+ "sha256": "40cf663954a8d5fae0f366d3fb871a56d9810633281c15a124094d3f57e6ab21",
+ "added": "2026-11-24T06:54:59Z"
+}
