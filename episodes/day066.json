@@ -1,0 +1,27 @@
+{
+ "n": 66,
+ "key": "day066",
+ "title": "Day 66 · Week 9, Day 3 — Parents: screening season — the tentative pregnancy, the anxiety curve after a positive, the false alarms cell-free DNA abolished, the roles men get handed, and who decides",
+ "week": "Week 9, Day 3",
+ "summary": "The human side of yesterday's physiology. From now to the anatomy scan, couples live through a sequence of tests with waits attached — what Barbara Katz Rothman called the tentative pregnancy. The measured anxiety curve after a positive screen in both partners (Burton 1985, including 148 male partners; Marteau 1992), the 2004 Health Technology Assessment review of 106 studies (anxiety falls with reassurance but may leave a residue; the all-clear has not been shown to reassure; up to 30% regret), a small signal that a false alarm may touch early mother–infant interaction (Viaux-Savelon 2012, n=19), and the biggest change of all: cell-free DNA cut false alarms from about 54 per thousand couples to under one (NEXT, 2015). The father specifically: the roles Locock and Alexander named (parent, bystander, protector, guardian of fact, decider/enforcer), the 18-study metasynthesis showing involved men become more engaged, and 4–16% of expectant fathers with an anxiety disorder (Leach 2016). Who decides — she has the final say, you have a real say — and the Cochrane evidence (105 trials, 31,043 people) that structured decision aids raise knowledge and values-congruent choices without raising anxiety. Four practical rules: the phone plan, the first question after any result, protecting the pregnancy during the wait, and choosing your role out loud.",
+ "action": "Fifteen minutes tonight. Each of you separately finishes two sentences — 'If a screening result came back high-risk, the first thing I'd want is…' and 'The thing I'd most want you to do in that moment is…' — then swap and read without debating. Agree the phone plan (who gets the call, whether the other must be present) and write it on the Questions page of the Day 61 file next to question seventeen.",
+ "sources": [
+  "O'Rahilly R, Müller F. Developmental stages in human embryos: revised and new measurements. Cells Tissues Organs 2010;192:73–84.",
+  "Rothman BK. The Tentative Pregnancy: Prenatal Diagnosis and the Future of Motherhood. New York: Viking; 1986.",
+  "Burton BK, Dillard RG, Clark EN. The psychological impact of false positive elevations of maternal serum alpha-fetoprotein. Am J Obstet Gynecol 1985;151:77–82.",
+  "Marteau TM, Cook R, Kidd J, et al. The psychological effects of false-positive results in prenatal screening for fetal abnormality: a prospective study. Prenat Diagn 1992;12:205–214.",
+  "Green JM, Hewison J, Bekker HL, Bryant LD, Cuckle HS. Psychosocial aspects of genetic screening of pregnant women and newborns: a systematic review. Health Technol Assess 2004;8(33). https://database.inahta.org/article/3739",
+  "Al Muteri T. Psychological impact of false-positive results in obstetric screening: a systematic review. Clin Exp Obstet Gynecol 2025;52(5):26696. https://www.imrpress.com/journal/CEOG/52/5/10.31083/CEOG26696",
+  "Viaux-Savelon S, Dommergues M, Rosenblum O, et al. Prenatal ultrasound screening: false positive soft markers may alter maternal representations and mother-infant interaction. PLoS One 2012;7:e30935.",
+  "Norton ME, Jacobsson B, Swamy GK, et al. Cell-free DNA analysis for noninvasive examination of trisomy. N Engl J Med 2015;372:1589–1597.",
+  "Locock L, Alexander J. 'Just a bystander'? Men's place in the process of fetal screening and diagnosis. Soc Sci Med 2006;62:1349–1359. https://ideas.repec.org/a/eee/socmed/v62y2006i6p1349-1359.html",
+  "Dheensa S, Metcalfe A, Williams RA. Men's experiences of antenatal screening: a metasynthesis of the qualitative research. Int J Nurs Stud 2013;50:121–133. https://research-information.bris.ac.uk/en/publications/mens-experiences-of-antenatal-screening-a-metasynthesis-of-the-qu/",
+  "Leach LS, Poyser C, Cooklin AR, Giallo R. Prevalence and course of anxiety disorders (and symptom levels) in men across the perinatal period: a systematic review. J Affect Disord 2016;190:675–686. https://researchportalplus.anu.edu.au/en/publications/prevalence-and-course-of-anxiety-disorders-and-symptom-levels-in-/",
+  "Stacey D, Légaré F, Lewis K, et al. Decision aids for people facing health treatment or screening decisions. Cochrane Database Syst Rev 2017;4:CD001431. https://cccrg.cochrane.org/news/new-review-decision-aids-people-facing-health-treatment-or-screening-decisions"
+ ],
+ "audio": "audio/day066.mp3",
+ "bytes": 5489613,
+ "seconds": 1372,
+ "sha256": "eaa846df5a8bca14a45fdacac45599cb2a41f7ceb50d178ed2d5dbc0086e2287",
+ "added": "2026-11-24T08:23:55Z"
+}

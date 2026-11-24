@@ -1,0 +1,26 @@
+{
+ "n": 67,
+ "key": "day067",
+ "title": "Day 67 · Week 9, Day 4 — Adventure: cold-weather sport without falls — one pregnant woman in four falls, one in two thousand is admitted, the pelvis that guards the first trimester, the sport with a tenth of the injuries, and the twenty-dollar cleat",
+ "week": "Week 9, Day 4",
+ "summary": "Winter's risk isn't the cold, it's the ground. The ACOG exercise guidance (150 minutes a week; continue vigorous exercise if already active) and its exceptions — ice hockey, downhill skiing and other fall-prone sports — with cross-country skiing, snowshoeing and walking absent from the list. How often pregnant women fall (26.8% of 3,997 in the NIOSH-funded Dunning study, two-thirds of work falls from slippery floors, hurrying or carrying), why (balance stable at 11–14 weeks, worse from the second trimester and still impaired 6–8 weeks postpartum, with growing reliance on vision — Butler 2006), and what a fall does (Schiff 2008: 48.9 hospitalisations per 100,000 deliveries, 79% in the third trimester and 9% in the first; abruption RR 8.0, preterm labour RR 4.4). Why the first trimester is the forgiving window — the uterus is still behind the pelvic girdle. Slope numbers: 1.5–6 injuries per 1,000 alpine skier days, cross-country about a tenth of that, helmets cutting head injury by about a third. A randomised trial in which slip-on traction devices cut outdoor winter falls from 43 to 19. The after-a-fall rules, including monitoring after an abdominal fall from 20 weeks and anti-D for Rh-negative women.",
+ "action": "Order slip-on traction cleats in your partner's shoe size and your own and put them by the door before the first ice. On the Questions page of the Day 61 file add 'After a fall': bleeding, pain, fluid, fainting or a blow to the belly → same-day call; from 20 weeks any fall onto the belly → monitoring; her blood group is ___. If a ski trip is booked, add question eighteen with the week and sleeping altitude.",
+ "sources": [
+  "O'Rahilly R, Müller F. Developmental stages in human embryos: revised and new measurements. Cells Tissues Organs 2010;192:73–84.",
+  "ACOG Committee Opinion No. 804. Physical activity and exercise during pregnancy and the postpartum period. Obstet Gynecol 2020;135:e178–e188. https://read.qxmd.com/read/32217980/",
+  "MotherToBaby. Exercise in pregnancy (fact sheet, 2026). https://mothertobaby.org/fact-sheets/exercise-pregnancy/",
+  "Dunning K, LeMasters G, Levin L, Bhattacharya A, Alterman T, Lordo K. Falls in workers during pregnancy: risk factors, job hazards, and high risk occupations. Am J Ind Med 2003;44:664–672; and NIOSH grant final report, Work related risk factors associated with falls during pregnancy, 2003. https://stacks.cdc.gov/view/cdc/218267",
+  "Butler EE, Colón I, Druzin ML, Rose J. Postural equilibrium during pregnancy: decreased stability with an increased reliance on visual cues. Am J Obstet Gynecol 2006;195:1104–1108.",
+  "Schiff MA. Pregnancy outcomes following hospitalisation for a fall in Washington State from 1987 to 2004. BJOG 2008;115:1648–1654.",
+  "Trauma in pregnancy: assessment, management, and prevention. Am Fam Physician 2014;90(10):717–724. https://www.aafp.org/pubs/afp/issues/2014/1115/p717.html",
+  "Bigdon SF, Gewiess J, Hoppe S, et al. Spinal injury in alpine winter sports: a review. Scand J Trauma Resusc Emerg Med 2019;27:69. https://link.springer.com/10.1186/s13049-019-0645-z",
+  "Street G. Technological advances in cross-country ski equipment. Med Sci Sports Exerc 1992;24:1048–1054 (cited for comparative injury rates in Winter sports-related injuries, Relias Media).",
+  "Russell K, Christie J, Hagel BE. The effect of helmets on the risk of head and neck injuries among skiers and snowboarders: a meta-analysis. CMAJ 2010;182:333–340.",
+  "McKiernan FE. A simple gait-stabilizing device reduces outdoor falls and nonserious injurious falls in fall-prone older people during the winter. J Am Geriatr Soc 2005;53:943–947."
+ ],
+ "audio": "audio/day067.mp3",
+ "bytes": 4987725,
+ "seconds": 1247,
+ "sha256": "c2ab459504f9ca77e5fb96094a9f536d4d00d3bdadab43dcd67584302299ffd2",
+ "added": "2026-11-24T08:23:56Z"
+}
