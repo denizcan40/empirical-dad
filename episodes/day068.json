@@ -1,0 +1,24 @@
+{
+ "n": 68,
+ "key": "day068",
+ "title": "Day 68 · Week 9, Day 5 — Protocol: screening decisions as a couple — every test on one calendar, the detection rates, why a positive screen is never a diagnosis, the needle risk as it's measured now, who wants to know the sex, and a seven-line worksheet",
+ "week": "Week 9, Day 5",
+ "summary": "The Protocol episode that turns Days 59, 65 and 66 into a decision. The testing window opens on Day 70: carrier screening, cell-free DNA from 10 weeks, the nuchal scan and combined screen at 11–13+6 weeks, CVS at 10–13 weeks, amniocentesis from 15 weeks, the quad screen at 15–22 weeks and the anatomy scan at ~20 weeks. ACOG Practice Bulletin 226: every patient offered both screening and diagnostic testing, with the right to decline. The scoreboard for trisomy 21 (quad 81%, combined 82–87%, integrated/sequential 95–96%, cfDNA 99%; Gil 2017: 99.7% detection, 0.04% false positives across 35 studies). Why a positive screen is an instruction to get a diagnosis, not a diagnosis. The needle risk recalculated: Akolekar 2015 (0.11% amniocentesis, 0.22% CVS) and Salomon 2019 (0.30% and 0.20%, falling to 0.12% and ~0 in risk-matched studies), against the one-in-two-hundred still quoted; CEMAT 1998 and why amniocentesis waits until 15 weeks (clubfoot 1.3% vs 0.1%). The three reasons couples test, and declining as a fourth legitimate position. Fetal sex: cfDNA accuracy by week (Devaney 2011), ultrasound at 12–14 weeks (Efrat 2006), the sex-chromosome caveat, and the four disclosure arrangements.",
+ "action": "Twenty minutes together before Day 70: one page, seven lines — (1) carrier screening status/result; (2) cfDNA yes/no, cost, draw week; (3) nuchal scan yes/no and booking between Day 77 and 97; (4) if high-chance, CVS or amniocentesis?; (5) the first sentence each of you would say if a diagnosis were confirmed; (6) sex: both know / neither / one / envelope, and whether sex-chromosome results are reported; (7) who gets the phone call. File it behind the Questions page of the Day 61 pregnancy file.",
+ "sources": [
+  "American College of Obstetricians and Gynecologists. Screening for Fetal Chromosomal Abnormalities: ACOG Practice Bulletin No. 226. Obstet Gynecol 2020;136:e48–e69. https://pubmed.ncbi.nlm.nih.gov/32804883/",
+  "Gil MM, Accurti V, Santacruz B, Plana MN, Nicolaides KH. Analysis of cell-free DNA in maternal blood in screening for aneuploidies: updated meta-analysis. Ultrasound Obstet Gynecol 2017;50:302–314. https://pubmed.ncbi.nlm.nih.gov/28397325/",
+  "Norton ME, Jacobsson B, Swamy GK, et al. Cell-free DNA analysis for noninvasive examination of trisomy. N Engl J Med 2015;372:1589–1597.",
+  "Akolekar R, Beta J, Picciarelli G, Ogilvie C, D'Antonio F. Procedure-related risk of miscarriage following amniocentesis and chorionic villus sampling: a systematic review and meta-analysis. Ultrasound Obstet Gynecol 2015;45:16–26. https://pubmed.ncbi.nlm.nih.gov/25042845/",
+  "Salomon LJ, Sotiriadis A, Wulff CB, Odibo A, Akolekar R. Risk of miscarriage following amniocentesis or chorionic villus sampling: systematic review of literature and updated meta-analysis. Ultrasound Obstet Gynecol 2019;54:442–451. https://pubmed.ncbi.nlm.nih.gov/31124209/",
+  "The Canadian Early and Mid-trimester Amniocentesis Trial (CEMAT) Group. Randomised trial to assess safety and fetal outcome of early and midtrimester amniocentesis. Lancet 1998;351:242–247. https://pubmed.ncbi.nlm.nih.gov/9457093/",
+  "Devaney SA, Palomaki GE, Scott JA, Bianchi DW. Noninvasive fetal sex determination using cell-free fetal DNA: a systematic review and meta-analysis. JAMA 2011;306:627–636. https://pubmed.ncbi.nlm.nih.gov/21828326/",
+  "Efrat Z, Perri T, Ramati E, Tugendreich D, Meizner I. Fetal gender assignment by first-trimester ultrasound. Ultrasound Obstet Gynecol 2006;27:619–621. https://pubmed.ncbi.nlm.nih.gov/16493625/",
+  "O'Rahilly R, Müller F. Developmental stages in human embryos: revised and new measurements. Cells Tissues Organs 2010;192:73–84. https://pubmed.ncbi.nlm.nih.gov/20185898/"
+ ],
+ "audio": "audio/day068.mp3",
+ "bytes": 6005613,
+ "seconds": 1501,
+ "sha256": "1b963a94bf90d5f03b48dc76a9da3f430ca7f22c94e70f4f1ff64dbb27ae172c",
+ "added": "2026-11-24T07:00:57Z"
+}
