@@ -1,0 +1,33 @@
+{
+ "n": 30,
+ "key": "day030",
+ "title": "Day 30 · Week 4, Day 2 — Physiology: the gland that keeps the lights on — the corpus luteum, the hormone that rescues it, and where the tiredness, the sore breasts and the bathroom trips come from",
+ "week": "Week 4, Day 2",
+ "summary": "The first Physiology episode, and the machinery is your partner's, because your baby (about 0.4 mm, Carnegie stage 7, making the first blood islands in the yolk sac) has none yet. The corpus luteum: the grape-sized remnant of the follicle that normally switches off after about 14 days (that switching off is a period), rescued this month by hCG, which binds the LH receptor. Csapo's luteectomy studies showing the pregnancy depends on it until about seven weeks, and the luteal-placental shift between seven and ten weeks. What progesterone does: holds the uterine lining, relaxes smooth muscle (bloating, constipation, early heartburn, falling blood pressure) and sedates via allopregnanolone at the GABA-A receptor. The numbers on the symptoms: 44.4% of 5,079 Generation R women tired every day vs 33.6% with daily nausea; longer but lighter, more broken sleep on home polysomnography by 11–12 weeks; half of women symptomatic by Day 36 and 89% by the end of week 8, with symptoms a poor signal either way. Breast changes, and why the bathroom trips come from a ~50% rise in kidney filtration rather than the bladder. hCG nudging the thyroid (18% low TSH in the first trimester). How to read an hCG pair if one is ever drawn, the conservative ultrasound criteria for nonviability, why a single progesterone level says little — and the PROMISE and PRISM trials (836 and 4,153 women) that found routine progesterone does not help most pregnancies, plus the subgroup (72% vs 57% live births) behind NICE's 2021 recommendation for women who bleed and have miscarried before.",
+ "action": "Tonight, pick one recurring evening job that is currently hers (dishes, the dog, lunches, an older child's bedtime) and take it over for the rest of the first trimester — tell her which one, out loud. Put a night light in the hallway between the bed and the bathroom.",
+ "sources": [
+  "O'Rahilly R, Müller F. Developmental stages in human embryos: revised and new measurements. Cells Tissues Organs 2010;192:73–84. https://pubmed.ncbi.nlm.nih.gov/20185898/",
+  "Csapo AI, Pulkkinen MO, Ruttner B, Sauvage JP, Wiest WG. The significance of the human corpus luteum in pregnancy maintenance. I. Preliminary studies. Am J Obstet Gynecol 1972;112:1061–1067. https://pubmed.ncbi.nlm.nih.gov/5017636/",
+  "Csapo AI, Pulkkinen M. Indispensability of the human corpus luteum in the maintenance of early pregnancy. Luteectomy evidence. Obstet Gynecol Surv 1978;33:69–81. https://pubmed.ncbi.nlm.nih.gov/341008/",
+  "Contemporary OB/GYN. Progesterone in early pregnancy: measuring it, giving it (2004). https://www.contemporaryobgyn.net/view/cover-story-progesterone-early-pregnancy-measuring-it-giving-it",
+  "Bai G, Korfage IJ, Groen EH, Jaddoe VW, Mautner E, Raat H. Associations between nausea, vomiting, fatigue and health-related quality of life of women in early pregnancy: the Generation R Study. PLoS One 2016;11:e0166133. https://pubmed.ncbi.nlm.nih.gov/27814390/",
+  "Lee KA, Zaffke ME, McEnany G. Parity and sleep patterns during and after pregnancy. Obstet Gynecol 2000;95:14–18. https://pubmed.ncbi.nlm.nih.gov/10636494/",
+  "Sayle AE, Wilcox AJ, Weinberg CR, Baird DD. A prospective study of the onset of symptoms of pregnancy. J Clin Epidemiol 2002;55:676–680. https://pubmed.ncbi.nlm.nih.gov/12160915/",
+  "Cheung KL, Lafayette RA. Renal physiology of pregnancy. Adv Chronic Kidney Dis 2013;20:209–214. https://pubmed.ncbi.nlm.nih.gov/23928384/",
+  "Odutayo A, Hladunewich M. Obstetric nephrology: renal hemodynamic and metabolic physiology in normal pregnancy. Clin J Am Soc Nephrol 2012;7:2073–2080. https://pubmed.ncbi.nlm.nih.gov/22879432/",
+  "Glinoer D, De Nayer P, Robyn C, et al. Serum levels of intact human chorionic gonadotropin (HCG) and its free alpha and beta subunits, in relation to maternal thyroid stimulation during normal pregnancy. J Endocrinol Invest 1993;16:881–888. https://pubmed.ncbi.nlm.nih.gov/7511622/",
+  "Alexander EK, Pearce EN, Brent GA, et al. 2017 Guidelines of the American Thyroid Association for the diagnosis and management of thyroid disease during pregnancy and the postpartum. Thyroid 2017;27:315–389. https://pubmed.ncbi.nlm.nih.gov/28056690/",
+  "Barnhart KT, Sammel MD, Rinaudo PF, et al. Symptomatic patients with an early viable intrauterine pregnancy: hCG curves redefined. Obstet Gynecol 2004;104:50–55. https://pubmed.ncbi.nlm.nih.gov/15229000/",
+  "Bollig KJ, Finlinson A, Barnhart KT, Coutifaris C, Schust DJ. Evaluation of a new model for human chorionic gonadotropin rise in pregnancies of unknown viability. Obstet Gynecol 2023;142:139–146. https://pubmed.ncbi.nlm.nih.gov/37290108/",
+  "Doubilet PM, Benson CB, Bourne T, Blaivas M, et al. Diagnostic criteria for nonviable pregnancy early in the first trimester. N Engl J Med 2013;369:1443–1451.",
+  "Coomarasamy A, Williams H, Truchanowicz E, et al. A randomized trial of progesterone in women with recurrent miscarriages (PROMISE). N Engl J Med 2015;373:2141–2148. https://pubmed.ncbi.nlm.nih.gov/26605928/",
+  "Coomarasamy A, Devall AJ, Cheed V, et al. A randomized trial of progesterone in women with bleeding in early pregnancy (PRISM). N Engl J Med 2019;380:1815–1824. https://pubmed.ncbi.nlm.nih.gov/31067371/",
+  "NIHR Evidence. Routine use of progesterone does not prevent miscarriage (PRISM subgroup results). https://evidence.nihr.ac.uk/alert/routine-use-of-progesterone-does-not-prevent-miscarriage/",
+  "NICE. Ectopic pregnancy and miscarriage: diagnosis and initial management (NG126), progesterone recommendation updated 2021; summarised by Scottish Government, Use of progesterone in the management of threatened and recurrent miscarriage. https://www.gov.scot/publications/use-progesterone-management-threatened-miscarriage-recurrent-miscarriage/pages/14/"
+ ],
+ "audio": "audio/day030.mp3",
+ "bytes": 6387981,
+ "seconds": 1597,
+ "sha256": "b9753dd7c76463afd26667a30ca9bce740622fc64b12d1e32a596ff0ea1481b8",
+ "added": "2026-11-24T07:15:53Z"
+}
