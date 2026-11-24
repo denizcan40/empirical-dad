@@ -1,0 +1,27 @@
+{
+ "n": 78,
+ "key": "day078",
+ "title": "Day 78 · Week 11, Day 1 — Brain: touch, the first sense — the mouth at seven and a half weeks, the palms this week, reflexes that bypass the brain, the waiting room under the cortex, and the father's chest",
+ "week": "Week 11, Day 1",
+ "summary": "Touch is the first sense to work. Humphrey's Pittsburgh films (Prog Brain Res 1964) traced the order: a hair stroked around the mouth draws a whole-body turn at about 7.5 weeks (~Day 52), the palms respond with a partial grasp at ~10.5–11 weeks (this week), the soles at ~12 and most of the body by ~14 — reflex arcs through the spinal cord and brainstem, not experience. The thalamic fibres that carry touch to the cortex wait for weeks in the transient subplate (Kostović & Judaš, 500+ brains) and connect in the late second and third trimester; the JAMA systematic review (Lee 2005) puts conscious pain perception unlikely before the third trimester, with the dissent (Derbyshire & Bockmann 2020) labelled as contested. Ordinary touch tunes the developing spinal circuits (Fitzgerald 2005). Third-trimester fetuses respond to a mother's touch on the abdomen in small 4D studies (Marx & Nagy 2015, 2017). After birth, C-tactile fibres code slow, pleasant stroking at 1–10 cm/s (Löken 2009); skin-to-skin contact across 46 trials raises breastfeeding at 1–4 months (RR 1.24), and a small trial found babies on the father's chest after caesarean cried less (Erlandsson 2007).",
+ "action": "Add a Birth plan section to the pregnancy file with one line: \"If she can't do skin-to-skin straight away, I do it. Ask the hospital: can the father do skin-to-skin in theatre or recovery after a caesarean?\"",
+ "sources": [
+  "Bradley RM, Mistretta CM. Fetal sensory receptors. Physiol Rev 1975;55:352–382. https://pubmed.ncbi.nlm.nih.gov/1098067/",
+  "Humphrey T. Some correlations between the appearance of human fetal reflexes and the development of the nervous system. Prog Brain Res 1964;4:93–135.",
+  "Kostović I, Judaš M. The development of the subplate and thalamocortical connections in the human foetal brain. Acta Paediatr 2010;99:1119–1127. https://pubmed.ncbi.nlm.nih.gov/20367617/",
+  "Lee SJ, Ralston HJ, Drey EA, Partridge JC, Rosen MA. Fetal pain: a systematic multidisciplinary review of the evidence. JAMA 2005;294:947–954. https://pubmed.ncbi.nlm.nih.gov/16118385/",
+  "Derbyshire SW, Bockmann JC. Reconsidering fetal pain. J Med Ethics 2020;46:3–6.",
+  "Fitzgerald M. The development of nociceptive circuits. Nat Rev Neurosci 2005;6:507–520. https://pubmed.ncbi.nlm.nih.gov/15995722/",
+  "Marx V, Nagy E. Fetal behavioural responses to maternal voice and touch. PLoS One 2015;10:e0129118. https://pubmed.ncbi.nlm.nih.gov/26053388/",
+  "Marx V, Nagy E. Fetal behavioral responses to the touch of the mother's abdomen: a frame-by-frame analysis. Infant Behav Dev 2017;47:83–91. https://pubmed.ncbi.nlm.nih.gov/28371722/",
+  "Löken LS, Wessberg J, Morrison I, McGlone F, Olausson H. Coding of pleasant touch by unmyelinated afferents in humans. Nat Neurosci 2009;12:547–548. https://pubmed.ncbi.nlm.nih.gov/19363489/",
+  "Moore ER, Bergman N, Anderson GC, Medley N. Early skin-to-skin contact for mothers and their healthy newborn infants. Cochrane Database Syst Rev 2016;11:CD003519. https://pubmed.ncbi.nlm.nih.gov/27885658/",
+  "Erlandsson K, Dsilna A, Fagerberg I, Christensson K. Skin-to-skin care with the father after cesarean birth and its effect on newborn crying and prefeeding behavior. Birth 2007;34:105–114.",
+  "Feldman R, Rosenthal Z, Eidelman AI. Maternal-preterm skin-to-skin contact enhances child physiologic organization and cognitive control across the first 10 years of life. Biol Psychiatry 2014;75:56–64."
+ ],
+ "audio": "audio/day078.mp3",
+ "bytes": 5711565,
+ "seconds": 1428,
+ "sha256": "cf24fc3557c73700f713e1ed5a0b69dbe1c3f40cc3c58b1cc9555bafbc91d9e4",
+ "added": "2026-11-24T08:30:14Z"
+}
