@@ -1,0 +1,31 @@
+{
+ "n": 80,
+ "key": "day080",
+ "title": "Day 80 · Week 11, Day 3 — Parents: her mood — the depression that peaks before the birth, the one in four who is anxious, the ten questions on the clipboard, and what a partner can see that a form can't",
+ "week": "Week 11, Day 3",
+ "summary": "Depression and anxiety during pregnancy, not after it. Your baby is about 4.5 cm and under 10 g, kidneys making urine and the placenta finishing its hormone handover. The numbers: depression in 7.4% of women in the first trimester and about 12–13% in the second and third (Bennett 2004, 21 studies, 19,284 women); in ALSPAC 13.5% were above the depression threshold at 32 weeks of pregnancy versus 9.1% at 8 weeks postpartum (Evans 2001); anxiety symptoms in 18.2%, 19.1% and 24.6% by trimester and an anxiety disorder in 15.2% (Dennis 2017, 102 studies, 221,974 women); antenatal anxiety roughly tripling the odds of postnatal depression (Heron 2004, 8,323 women). The risk factors that survive adjustment — life stress, low social support and domestic violence (Lancaster 2010). Why it matters: preterm birth RR 1.39 and low birth weight RR 1.49 where depression is categorised, with the confounding caveat (Grote 2010), and mental health conditions as the leading underlying cause of US pregnancy-related deaths (about 23%, CDC MMRC 2017–2019). The screening: ACOG CPG 4 (2023) — screen at the first visit, later in pregnancy and postpartum; the 10-item Edinburgh scale and its accuracy (sensitivity 81%, specificity 88% at ≥11; Levis 2020, 15,557 women); the Whooley questions and the 'would you like help?' question (specificity 94%, Arroll 2005). Treatment: counselling cuts onset by 39% in women at risk (USPSTF 2019, grade B); SSRIs and heart defects — RR 1.06 once depression is accounted for (Huybrechts 2014, 949,504 pregnancies). The partner's part: support and conflict in the Pilkington meta-analysis, the 29-woman Misri trial, the signs worth noticing over two weeks, how to raise it, and the situations that mean calling the same day — with the 988 Lifeline and the National Maternal Mental Health Hotline.",
+ "action": "Add a 'Mood' section to the pregnancy file with two lines: any history of depression or anxiety in either of you, and what helped; and the two numbers — 988 Suicide and Crisis Lifeline (call or text 988) and the National Maternal Mental Health Hotline, 1-833-TLC-MAMA (1-833-852-6262). Save the hotline in your phone.",
+ "sources": [
+  "Bennett HA, Einarson A, Taddio A, Koren G, Einarson TR. Prevalence of depression during pregnancy: systematic review. Obstet Gynecol 2004;103:698–709. https://pubmed.ncbi.nlm.nih.gov/15051562/",
+  "Evans J, Heron J, Francomb H, Oke S, Golding J. Cohort study of depressed mood during pregnancy and after childbirth. BMJ 2001;323:257–260. https://pubmed.ncbi.nlm.nih.gov/11485953/",
+  "Dennis CL, Falah-Hassani K, Shiri R. Prevalence of antenatal and postnatal anxiety: systematic review and meta-analysis. Br J Psychiatry 2017;210:315–323. https://pubmed.ncbi.nlm.nih.gov/28302701/",
+  "Heron J, O'Connor TG, Evans J, Golding J, Glover V; ALSPAC Study Team. The course of anxiety and depression through pregnancy and the postpartum in a community sample. J Affect Disord 2004;80:65–73. https://pubmed.ncbi.nlm.nih.gov/15094259/",
+  "Lancaster CA, Gold KJ, Flynn HA, Yoo H, Marcus SM, Davis MM. Risk factors for depressive symptoms during pregnancy: a systematic review. Am J Obstet Gynecol 2010;202:5–14. https://pubmed.ncbi.nlm.nih.gov/20096252/",
+  "Grote NK, Bridge JA, Gavin AR, Melville JL, Iyengar S, Katon WJ. A meta-analysis of depression during pregnancy and the risk of preterm birth, low birth weight, and intrauterine growth restriction. Arch Gen Psychiatry 2010;67:1012–1024. https://pubmed.ncbi.nlm.nih.gov/20921117/",
+  "CDC. Pregnancy-Related Deaths: Data From Maternal Mortality Review Committees in 36 US States, 2017–2019. https://archive.cdc.gov/www_cdc_gov/maternal-mortality/php/data-research/mmrc-2017-2019.html",
+  "American College of Obstetricians and Gynecologists. Screening and Diagnosis of Mental Health Conditions During Pregnancy and Postpartum. Clinical Practice Guideline No. 4. Obstet Gynecol 2023;141:1232–1261.",
+  "Cox JL, Holden JM, Sagovsky R. Detection of postnatal depression: development of the 10-item Edinburgh Postnatal Depression Scale. Br J Psychiatry 1987;150:782–786.",
+  "Levis B, Negeri Z, Sun Y, Benedetti A, Thombs BD; DEPRESsion Screening Data (DEPRESSD) EPDS Group. Accuracy of the Edinburgh Postnatal Depression Scale (EPDS) for screening to detect major depression among pregnant and postpartum women: systematic review and meta-analysis of individual participant data. BMJ 2020;371:m4022. https://pubmed.ncbi.nlm.nih.gov/33177069/",
+  "Arroll B, Goodyear-Smith F, Kerse N, Fishman T, Gunn J. Effect of the addition of a 'help' question to two screening questions on specificity for diagnosis of depression in general practice: diagnostic validity study. BMJ 2005;331:884. https://pubmed.ncbi.nlm.nih.gov/16166106/",
+  "O'Connor E, Senger CA, Henninger ML, Coppola E, Gaynes BN. Interventions to Prevent Perinatal Depression: Evidence Report and Systematic Review for the US Preventive Services Task Force. JAMA 2019;321:588–601. https://pubmed.ncbi.nlm.nih.gov/30747970/",
+  "Huybrechts KF, Palmsten K, Avorn J, et al. Antidepressant use in pregnancy and the risk of cardiac defects. N Engl J Med 2014;370:2397–2407. https://pubmed.ncbi.nlm.nih.gov/24941178/",
+  "Pilkington PD, Milne LC, Cairns KE, Lewis J, Whelan TA. Modifiable partner factors associated with perinatal depression and anxiety: a systematic review and meta-analysis. J Affect Disord 2015;178:165–180. https://pubmed.ncbi.nlm.nih.gov/25837550/",
+  "Misri S, Kostaras X, Fox D, Kostaras D. The impact of partner support in the treatment of postpartum depression. Can J Psychiatry 2000;45:554–558. https://pubmed.ncbi.nlm.nih.gov/10986574/",
+  "HRSA — National Maternal Mental Health Hotline (1-833-TLC-MAMA). https://mchb.hrsa.gov/national-maternal-mental-health-hotline"
+ ],
+ "audio": "audio/day080.mp3",
+ "bytes": 5992941,
+ "seconds": 1498,
+ "sha256": "5507f3f69bd248284dd0cd6600ef103c2d8a87b2b60dfadee9ea7be88a6db019",
+ "added": "2026-11-24T08:49:57Z"
+}
