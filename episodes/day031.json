@@ -1,0 +1,32 @@
+{
+ "n": 31,
+ "key": "day031",
+ "title": "Day 31 · Week 4, Day 3 — Parents: the second adult — what a father's involvement measurably does, the smoke in the house, and the one father in ten who gets depressed",
+ "week": "Week 4, Day 3",
+ "summary": "The father-involvement evidence promised on Episode Zero and Day 28, read honestly. Your baby is about 0.4 mm, gathering the cardiogenic field that becomes the heart, a day or two from the neural plate. Why nearly all the evidence is observational and what that means. The ECLS-B cohort (5,404 US women): involved partners went with 1.5× the odds of first-trimester prenatal care, and a suggestive (p = 0.09) 36% greater cut in smoking. The 2010 English national maternity survey (4,616 women): over half of fathers at the test and at one or more checks, nearly all at scans and labour, three quarters on paternity leave, and engagement linked to earlier first contact, dating scans, classes and breastfeeding, with leave linked to maternal wellbeing at three months. Florida birth records and the honest limits of 'father absent on the birth certificate'. The AAP's 2016 clinical report. The active ingredients from a 120-publication meta-analysis — emotional closeness, support of both kinds, communication, relationship satisfaction, less conflict — and the reciprocal-support Delphi study. Secondhand smoke (stillbirth OR 1.23 from a 1-in-175 baseline; malformations OR 1.13) and the Cochrane nicotine-replacement evidence (RR 1.55, 133 trials). Then the father: about 10% depressed between the first trimester and the first year, 13.6% in the first trimester; paternal postnatal depression roughly doubling child behaviour problems at 3.5 years (ALSPAC), two thirds of it through maternal mood and couple conflict.",
+ "action": "Find the date of the first prenatal visit booked on Day 28 and put it in your own calendar as a fixed, protected block; tell your partner you'll be there. If you smoke, this outranks it: set a quit date within two weeks and buy nicotine patches or gum today.",
+ "sources": [
+  "O'Rahilly R, Müller F. Developmental stages in human embryos: revised and new measurements. Cells Tissues Organs 2010;192:73–84. https://pubmed.ncbi.nlm.nih.gov/20185898/",
+  "Martin LT, McNamara MJ, Milot AS, Halle T, Hair EC. The effects of father involvement during pregnancy on receipt of prenatal care and maternal smoking. Matern Child Health J 2007;11:595–602. https://pubmed.ncbi.nlm.nih.gov/17557201/",
+  "Redshaw M, Henderson J. Fathers' engagement in pregnancy and childbirth: evidence from a national survey. BMC Pregnancy Childbirth 2013;13:70. https://pubmed.ncbi.nlm.nih.gov/23514133/",
+  "Alio AP, Kornosky JL, Mbah AK, Marty PJ, Salihu HM. The impact of paternal involvement on feto-infant morbidity among Whites, Blacks and Hispanics. Matern Child Health J 2010;14:735–741. https://pubmed.ncbi.nlm.nih.gov/19526333/",
+  "Alio AP, Salihu HM, Kornosky JL, Richman AM, Marty PJ. Feto-infant health and survival: does paternal involvement matter? Matern Child Health J 2010;14:931–937. https://pubmed.ncbi.nlm.nih.gov/19826935/",
+  "Yogman M, Garfield CF; AAP Committee on Psychosocial Aspects of Child and Family Health. Fathers' roles in the care and development of their children. Pediatrics 2016;138:e20161128.",
+  "Pilkington PD, Milne LC, Cairns KE, Lewis J, Whelan TA. Modifiable partner factors associated with perinatal depression and anxiety: a systematic review and meta-analysis. J Affect Disord 2015;178:165–180. https://pubmed.ncbi.nlm.nih.gov/25837550/",
+  "Pilkington P, Milne L, Cairns K, Whelan T. Enhancing reciprocal partner support to prevent perinatal depression and anxiety: a Delphi consensus study. BMC Psychiatry 2016;16:23. https://pubmed.ncbi.nlm.nih.gov/26842065/",
+  "Leonardi-Bee J, Britton J, Venn A. Secondhand smoke and adverse fetal outcomes in nonsmoking pregnant women: a meta-analysis. Pediatrics 2011;127:734–741. https://pubmed.ncbi.nlm.nih.gov/21382949/",
+  "CDC — Data and Statistics on Stillbirth. https://www.cdc.gov/stillbirth/data-research/index.html",
+  "Hartmann-Boyce J, Chepkin SC, Ye W, Bullen C, Lancaster T. Nicotine replacement therapy versus control for smoking cessation. Cochrane Database Syst Rev 2018;5:CD000146. https://pubmed.ncbi.nlm.nih.gov/29852054/",
+  "Paulson JF, Bazemore SD. Prenatal and postpartum depression in fathers and its association with maternal depression: a meta-analysis. JAMA 2010;303:1961–1969. https://pubmed.ncbi.nlm.nih.gov/20483973/",
+  "Rao WW, Zhu XM, Zong QQ, et al. Prevalence of prenatal and postpartum depression in fathers: a comprehensive meta-analysis of observational surveys. J Affect Disord 2020;263:491–499. https://pubmed.ncbi.nlm.nih.gov/31757623/",
+  "Ramchandani P, Stein A, Evans J, O'Connor TG; ALSPAC study team. Paternal depression in the postnatal period and child development: a prospective population study. Lancet 2005;365:2201–2205. https://pubmed.ncbi.nlm.nih.gov/15978928/",
+  "Gutierrez-Galve L, Stein A, Hanington L, Heron J, Ramchandani P. Paternal depression in the postnatal period and child development: mediators and moderators. Pediatrics 2015;135:e339–e347. https://pubmed.ncbi.nlm.nih.gov/25560437/",
+  "Ramchandani PG, Psychogiou L, Vlachos H, et al. Paternal depression: an examination of its links with father, child and family functioning in the postnatal period. Depress Anxiety 2011;28:471–477. https://pubmed.ncbi.nlm.nih.gov/21506206/",
+  "Moon RY, Carlin RF, Hand I; AAP Task Force on SIDS. Sleep-related infant deaths: updated 2022 recommendations for reducing infant deaths in the sleep environment. Pediatrics 2022;150:e2022057990."
+ ],
+ "audio": "audio/day031.mp3",
+ "bytes": 5743821,
+ "seconds": 1436,
+ "sha256": "2017f822ede64c51144a3406d082f9d842b7373b8daa80246cc17ed1ec55df82",
+ "added": "2026-11-24T07:46:25Z"
+}
