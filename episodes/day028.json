@@ -1,0 +1,33 @@
+{
+ "n": 28,
+ "key": "day028",
+ "title": "Day 28 · Week 4, Day 0 — Body: smaller than a grain of salt — what the embryo is on the day the test turns positive",
+ "week": "Week 4, Day 0",
+ "summary": "The first numbered episode: the missed period and the positive test. What your baby physically is today — a two-layered disc about 0.2 mm across (Carnegie stage 5–6) inside a ~2 mm package that has already buried into the uterine wall and begun building a placenta — and the primitive streak that is about to fix head, tail, left and right. Why the test is positive now: hCG from the trophoblast, implantation on day 8–10 after ovulation in 84% of lasting pregnancies, a median 124% rise every two days, and the real sensitivity of home tests (97% vs 54–67% detection on the day of the missed period). The due-date math from ACOG Committee Opinion 700 — 280 days by convention, half of women misrecall their LMP, the ±5–7-day crown-rump accuracy and the redating thresholds — and the Jukic 2013 finding that healthy pregnancies with known conception dates vary by 37 days. The honest early-loss curve (25% of hormone-detected conceptions before 6 weeks; 10% at age 25–29 rising to 53% at 45+), the ectopic warning signs that justify a same-day call, what the first phone call to the OB should accomplish and why the first visit is at 8–12 weeks, folic acid and alcohol today, and the established answer on the trip that is already booked.",
+ "action": "One phone call: book the first OB or midwife visit, with your partner or on her behalf. Ask how to reach the practice after hours between now and then, and save that number in both phones under a name you will find at 3 a.m. If she is not on a prenatal vitamin with at least 400 µg folic acid, pick one up on the way home.",
+ "sources": [
+  "O'Rahilly R, Müller F. Developmental stages in human embryos: revised and new measurements. Cells Tissues Organs 2010;192:73–84. https://pubmed.ncbi.nlm.nih.gov/20185898/",
+  "embryology.ch — Carnegie stages 1–6 (sizes and features of stages 4, 5a–c and 6). https://embryology.ch/en/embryogenese/embryonic-phase/carnegie-stages/1-6.html",
+  "UNSW Embryology — Carnegie stage 6 (bilaminar disc ~0.2 mm, primitive streak, chorionic villi, lacunae). https://embryology.med.unsw.edu.au/embryology/index.php/Carnegie_stage_6",
+  "NHS — You and your baby at 4 weeks pregnant. https://www.nhs.uk/pregnancy/week-by-week/1-to-12/4-weeks/",
+  "MedlinePlus — Fetal development (weeks 3–5: conception, implantation, start of the embryonic period). https://medlineplus.gov/ency/article/002398.htm",
+  "Wilcox AJ, Baird DD, Weinberg CR. Time of implantation of the conceptus and loss of pregnancy. N Engl J Med 1999;340:1796–1799. https://pubmed.ncbi.nlm.nih.gov/10362823/",
+  "Barnhart KT, Sammel MD, Rinaudo PF, Zhou L, Hummel AC, Guo W. Symptomatic patients with an early viable intrauterine pregnancy: hCG curves redefined. Obstet Gynecol 2004;104:50–55. https://pubmed.ncbi.nlm.nih.gov/15229000/",
+  "Cole LA. The utility of six over-the-counter (home) pregnancy tests. Clin Chem Lab Med 2011;49:1317–1322. https://pubmed.ncbi.nlm.nih.gov/21812725/",
+  "Gnoth C, Johnson S. Strips of Hope: Accuracy of Home Pregnancy Tests and New Developments. Geburtshilfe Frauenheilkd 2014;74:661–669. https://pubmed.ncbi.nlm.nih.gov/25100881/",
+  "ACOG Committee Opinion No. 700. Methods for Estimating the Due Date. Obstet Gynecol 2017;129:e150–e154. https://pubmed.ncbi.nlm.nih.gov/28426621/",
+  "Jukic AM, Baird DD, Weinberg CR, McConnaughey DR, Wilcox AJ. Length of human pregnancy and contributors to its natural variation. Hum Reprod 2013;28:2848–2855. https://pubmed.ncbi.nlm.nih.gov/23922246/",
+  "Magnus MC, Wilcox AJ, Morken NH, Weinberg CR, Håberg SE. Role of maternal age and pregnancy history in risk of miscarriage: prospective register based study. BMJ 2019;364:l869. https://pubmed.ncbi.nlm.nih.gov/30894356/",
+  "ACOG Practice Bulletin No. 193. Tubal Ectopic Pregnancy. Obstet Gynecol 2018;131:e91–e103. https://pubmed.ncbi.nlm.nih.gov/29470343/",
+  "CDC — About Folic Acid. https://www.cdc.gov/folic-acid/about/index.html",
+  "CDC — About Alcohol Use During Pregnancy. https://www.cdc.gov/alcohol-pregnancy/about/index.html",
+  "CDC Yellow Book — Pregnant Travelers. https://www.cdc.gov/yellow-book/hcp/family-travel/pregnant-travelers.html",
+  "Alio AP, Salihu HM, Kornosky JL, Richman AM, Marty PJ. Feto-infant health and survival: does paternal involvement matter? Matern Child Health J 2010;14:931–937.",
+  "Yogman M, Garfield CF; AAP Committee on Psychosocial Aspects of Child and Family Health. Fathers' roles in the care and development of their children. Pediatrics 2016;138:e20161128."
+ ],
+ "audio": "audio/day028.mp3",
+ "bytes": 5331117,
+ "seconds": 1333,
+ "sha256": "f1cdc86295b095b36ea078a633b1e807c6c51d5d72d62dda6f7c070e5247295b",
+ "added": "2026-11-24T06:46:53Z"
+}
