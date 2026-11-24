@@ -1,0 +1,25 @@
+{
+ "n": 74,
+ "key": "day074",
+ "title": "Day 74 · Week 10, Day 4 — Adventure: cycling, running and swimming — the guidelines that flipped from caution to keep going, the ceiling at ninety percent, the ground under the bike, and the pool that runs cool",
+ "week": "Week 10, Day 4",
+ "summary": "The Adventure episode for week 10, for couples who train. How the advice moved from ACOG's 1985 heart-rate cap to ACOG Committee Opinion 804 and the 2019 Canadian guideline, which says all women without contraindications should be active and found no harms. The miscarriage question with its largest analysis (Davenport 2019: 46 studies, 266,778 women, OR 0.88 for miscarriage). Running: 1,293 parkrun women who kept running delivered half a day later on average with same-size babies (Kuhrt 2018). Vigorous exercise into the third trimester: no effect on birthweight or growth in 32,080 cohort women and 623 trial participants (Beetham 2019). The ceiling: brief, reversible fetal bradycardia above ~90% of maximum heart rate in Olympic athletes (Salvesen 2012) and in 6 of 60 athletes during very-hard running intervals, none on the bike (Dalhaug 2025). Cycling's risk is the ground, not the effort: why the first trimester is protected by the pelvis and why trails and fast group rides come off the list first. Swimming: no hazard from pool water in 74,486 Danish pregnancies (Juhl 2010), and water exercise up to 33.4 °C for 45 minutes keeps core temperature well below 39 °C (Ravanelli 2019). Heat perception in a 32 °C chamber (Smallcombe 2021), the ACOG stop list, and the father's job: train with her, own the logistics, know the stop list.",
+ "action": "This week, do one session with your partner at her pace — a run, ride or swim of her choosing — using the talk test as the only intensity rule. If it's a ride, pick a flat, familiar, low-traffic route and check both bikes first. Say the stop list out loud once before you set off.",
+ "sources": [
+  "ACOG Committee Opinion No. 804. Physical Activity and Exercise During Pregnancy and the Postpartum Period. Obstet Gynecol 2020;135:e178–e188. https://pubmed.ncbi.nlm.nih.gov/32217980/",
+  "Mottola MF, Davenport MH, Ruchat SM, et al. 2019 Canadian guideline for physical activity throughout pregnancy. Br J Sports Med 2018;52:1339–1346. https://pubmed.ncbi.nlm.nih.gov/30337460/",
+  "Davenport MH, Kathol AJ, Mottola MF, et al. Prenatal exercise is not associated with fetal mortality: a systematic review and meta-analysis. Br J Sports Med 2019;53:108–115. https://pubmed.ncbi.nlm.nih.gov/30337346/",
+  "Kuhrt K, Harmon M, Hezelgrave NL, Seed PT, Shennan AH. Is recreational running associated with earlier delivery and lower birth weight in women who continue to run during pregnancy? An international retrospective cohort study of running habits of 1293 female runners during pregnancy. BMJ Open Sport Exerc Med 2018;4:e000296. https://pubmed.ncbi.nlm.nih.gov/29644086/",
+  "Beetham KS, Giles C, Noetel M, Clifton V, Jones JC, Naughton G. The effects of vigorous intensity exercise in the third trimester of pregnancy: a systematic review and meta-analysis. BMC Pregnancy Childbirth 2019;19:281. https://pubmed.ncbi.nlm.nih.gov/31391016/",
+  "Salvesen KÅ, Hem E, Sundgot-Borgen J. Fetal wellbeing may be compromised during strenuous exercise among pregnant elite athletes. Br J Sports Med 2012;46:279–283. https://pubmed.ncbi.nlm.nih.gov/21393257/",
+  "Dalhaug EM, Sanda B, Bø K, et al. Is fetal well-being jeopardised during high-intensity interval training? BMJ Open Sport Exerc Med 2025;11:e002496. https://pubmed.ncbi.nlm.nih.gov/40303383/",
+  "Juhl M, Kogevinas M, Andersen PK, Andersen AM, Olsen J. Is swimming during pregnancy a safe exercise? Epidemiology 2010;21:253–258. https://pubmed.ncbi.nlm.nih.gov/20110815/",
+  "Ravanelli N, Casasola W, English T, Edwards KM, Jay O. Heat stress and fetal risk. Environmental limits for exercise and passive heat stress during pregnancy: a systematic review with best evidence synthesis. Br J Sports Med 2019;53:799–805. https://pubmed.ncbi.nlm.nih.gov/29496695/",
+  "Smallcombe JW, Puhenthirar A, Casasola W, et al. Thermoregulation during pregnancy: a controlled trial investigating the risk of maternal hyperthermia during exercise in the heat. Sports Med 2021;51:2655–2664. https://pubmed.ncbi.nlm.nih.gov/34165763/"
+ ],
+ "audio": "audio/day074.mp3",
+ "bytes": 5842029,
+ "seconds": 1460,
+ "sha256": "14749a89144f1d6cefe7a041724b0750a2b39657cca17aecbb25e4366d274f26",
+ "added": "2026-11-24T07:53:09Z"
+}

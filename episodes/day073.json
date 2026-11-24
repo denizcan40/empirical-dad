@@ -1,0 +1,27 @@
+{
+ "n": 73,
+ "key": "day073",
+ "title": "Day 73 · Week 10, Day 3 — Parents: your weight and your sleep — the four pounds of fatherhood, the partner effect that triples the odds of change, the father's BMI in the child's, sixty-two minutes against thirteen, and the hours below which you don't drive",
+ "week": "Week 10, Day 3",
+ "summary": "The father's own body as a lever in the household. Garfield's 20-year Add Health cohort (10,253 young men): becoming a resident father was linked to a 2.6% BMI rise, about 4.4 lb for a six-foot man, while non-fathers lost about 1.4 lb. Jackson, Steptoe & Wardle (JAMA Intern Med 2015, 3,722 couples): when one partner changed, the other was about three times as likely to lose weight (men 26% vs 10%), five times as likely to become active (67% vs 26%) and twelve times as likely to quit smoking (48% vs 8%) — and a newly changed partner beat a always-healthy one. Fleten's MoBa study of 29,216 families: father's and mother's BMI predicted the child's at age three equally (0.13 vs 0.12 per SD), pointing to genes and the household over the womb. Healthy Dads, Healthy Kids trials (−7.6 kg vs 0 at 6 months; −3.3 vs +0.1 kg in the community trial) as the case for father-framed change. Then sleep: the AASM/SRS ≥7-hour consensus; short sleep and obesity (OR 1.55, Cappuccio 2008); Richter's German panel showing mothers lose 62 minutes a night after a birth against fathers' 13, with neither recovered at six years; 46% of pregnant women sleeping poorly (Sedov 2018); moderate–severe sleep apnoea in ~10% of men aged 30–49 (Peppard 2013); and Tefft's crash odds by hours slept (1.3 at 6 h, 1.9 at 5, 2.9 at 4, 15.1 under 4).",
+ "action": "Tonight, set a bedtime alarm seven and a half hours before your morning alarm and run it for seven nights, noting each morning how many hours you actually slept. Write the average on a page with your name at the back of the Day 61 pregnancy file; if it's under seven, change one thing. And ask your partner: 'Do I snore, and does it wake you?' — then believe the answer.",
+ "sources": [
+  "Garfield CF, Duncan G, Gutina A, et al. Longitudinal Study of Body Mass Index in Young Males and the Transition to Fatherhood. Am J Mens Health 2016;10:NP158–NP167. https://pubmed.ncbi.nlm.nih.gov/26198724/",
+  "Northwestern Now. Fatherhood makes men fat (July 2015). https://news.northwestern.edu/stories/2015/07/fatherhood-makes-men-fat",
+  "Jackson SE, Steptoe A, Wardle J. The influence of partner's behavior on health behavior change: the English Longitudinal Study of Ageing. JAMA Intern Med 2015;175:385–392. https://pubmed.ncbi.nlm.nih.gov/25599511/",
+  "Fleten C, Nystad W, Stigum H, et al. Parent-offspring body mass index associations in the Norwegian Mother and Child Cohort Study: a family-based approach to studying the role of the intrauterine environment in childhood adiposity. Am J Epidemiol 2012;176:83–92. https://pubmed.ncbi.nlm.nih.gov/22771730/",
+  "Morgan PJ, Lubans DR, Callister R, et al. The 'Healthy Dads, Healthy Kids' randomized controlled trial: efficacy of a healthy lifestyle program for overweight fathers and their children. Int J Obes 2011;35:436–447. https://pubmed.ncbi.nlm.nih.gov/20697417/",
+  "Morgan PJ, Collins CE, Plotnikoff RC, et al. The 'Healthy Dads, Healthy Kids' community randomized controlled trial. Prev Med 2014;61:90–99. https://pubmed.ncbi.nlm.nih.gov/24380796/",
+  "Watson NF, Badr MS, Belenky G, et al. Recommended Amount of Sleep for a Healthy Adult: A Joint Consensus Statement of the AASM and SRS. J Clin Sleep Med 2015;11:591–592. https://pubmed.ncbi.nlm.nih.gov/25979105/",
+  "Cappuccio FP, Taggart FM, Kandala NB, et al. Meta-analysis of short sleep duration and obesity in children and adults. Sleep 2008;31:619–626. https://pubmed.ncbi.nlm.nih.gov/18517032/",
+  "Richter D, Krämer MD, Tang NKY, Montgomery-Downs HE, Lemola S. Long-term effects of pregnancy and childbirth on sleep satisfaction and duration of first-time and experienced mothers and fathers. Sleep 2019;42:zsz015. https://pubmed.ncbi.nlm.nih.gov/30649536/",
+  "Sedov ID, Cameron EE, Madigan S, Tomfohr-Madsen LM. Sleep quality during pregnancy: A meta-analysis. Sleep Med Rev 2018;38:168–176. https://pubmed.ncbi.nlm.nih.gov/28866020/",
+  "Peppard PE, Young T, Barnet JH, et al. Increased prevalence of sleep-disordered breathing in adults. Am J Epidemiol 2013;177:1006–1014. https://pubmed.ncbi.nlm.nih.gov/23589584/",
+  "Tefft BC. Acute sleep deprivation and culpable motor vehicle crash involvement. Sleep 2018;41:zsy144. https://pubmed.ncbi.nlm.nih.gov/30239905/"
+ ],
+ "audio": "audio/day073.mp3",
+ "bytes": 4896621,
+ "seconds": 1224,
+ "sha256": "ffb40f541c6e273050ff97ef07e760a2826a8c09c1bdb27aff6d93bfaed4bc0f",
+ "added": "2026-11-24T07:53:08Z"
+}
