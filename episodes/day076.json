@@ -1,0 +1,27 @@
+{
+ "n": 76,
+ "key": "day076",
+ "title": "Day 76 · Week 10, Day 6 — Myths: bed rest protects a pregnancy, rest prevents preterm birth, and a woman who wasn't a runner shouldn't start moving now",
+ "week": "Week 10, Day 6",
+ "summary": "The Myths episode on rest. Bed rest became standard obstetric treatment on intuition, not trials. For bleeding in the first half of pregnancy, the only Cochrane evidence is two trials with 84 women and no benefit (RR 1.54, 0.92–2.58); ACOG says not to recommend it, because most early losses are chromosomal and set at conception, and exercise does not raise miscarriage risk (Davenport 2019, OR 0.88). For preterm birth, the one qualifying Cochrane trial (1,266 women) found no difference (RR 0.92); six twin trials (636 women) found no reduction in birth before 34 weeks; and in 646 women with a short cervix, the 39% placed on activity restriction delivered preterm in 37% vs 17% (aOR 2.37) — no benefit. The costs: one hospital series found blood clots in 15.6 per 1,000 women on bed rest vs 0.8 per 1,000 others; bone loss, muscle wasting, weight loss, depression and lost income. Then the beginner myth: ACOG, WHO and Canada say inactive women should start and build gradually; a 765-woman Madrid RCT starting at 9–11 weeks found non-exercisers had ~3× the odds of gestational hypertension. Where rest genuinely belongs (named contraindications, ordinary fatigue), the script for bleeding, and the one question to ask if bed rest is suggested.",
+ "action": "Write one line at the top of the pregnancy file: 'Bleeding: call the practice the same day; bed rest is not the plan unless they give a specific reason,' with the after-hours number underneath. If your partner is just starting to move, book a 15-minute walk together for tomorrow.",
+ "sources": [
+  "Aleman A, Althabe F, Belizán JM, Bergel E. Bed rest during pregnancy for preventing miscarriage. Cochrane Database Syst Rev 2005;(2):CD003576 (updated 2010). https://cochranelibrary.com/cdsr/doi/10.1002/14651858.CD003576.pub2",
+  "Sosa CG, Althabe F, Belizán JM, Bergel E. Bed rest in singleton pregnancies for preventing preterm birth. Cochrane Database Syst Rev 2015;(3):CD003581. https://pubmed.ncbi.nlm.nih.gov/25821121/",
+  "da Silva Lopes K, Takemoto Y, Ota E, Tanigaki S, Mori R. Bed rest with and without hospitalisation in multiple pregnancy for improving perinatal outcomes. Cochrane Database Syst Rev 2017;(3):CD012031. https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD012031.pub2",
+  "Grobman WA, Gilbert SA, Iams JD, et al.; NICHD MFMU Network. Activity restriction among women with a short cervix. Obstet Gynecol 2013;121:1181–1186. https://pubmed.ncbi.nlm.nih.gov/23812450/",
+  "Kovacevich GJ, Gaich SA, Lavin JP, et al. The prevalence of thromboembolic events among women with extended bed rest prescribed as part of the treatment for premature labor or preterm premature rupture of membranes. Am J Obstet Gynecol 2000;182:1089–1092. https://pubmed.ncbi.nlm.nih.gov/10819836/",
+  "Maloni JA. Antepartum bed rest for pregnancy complications: efficacy and safety for preventing preterm birth. Biol Res Nurs 2010;12:106–124.",
+  "McCall CA, Grimes DA, Lyerly AD. \"Therapeutic\" bed rest in pregnancy: unethical and unsupported by data. Obstet Gynecol 2013;121:1305–1308.",
+  "ACOG Practice Bulletin No. 200. Early Pregnancy Loss. Obstet Gynecol 2018;132:e197–e207.",
+  "ACOG Committee Opinion No. 804. Physical Activity and Exercise During Pregnancy and the Postpartum Period. Obstet Gynecol 2020;135:e178–e188.",
+  "Mottola MF, Davenport MH, Ruchat SM, et al. 2019 Canadian guideline for physical activity throughout pregnancy. Br J Sports Med 2018;52:1339–1346.",
+  "Davenport MH, Kathol AJ, Mottola MF, et al. Prenatal exercise is not associated with fetal mortality: a systematic review and meta-analysis. Br J Sports Med 2019;53:108–115.",
+  "Barakat R, Pelaez M, Cordero Y, et al. Exercise during pregnancy protects against hypertension and macrosomia: randomized clinical trial. Am J Obstet Gynecol 2016;214:649.e1–8."
+ ],
+ "audio": "audio/day076.mp3",
+ "bytes": 5457069,
+ "seconds": 1364,
+ "sha256": "987ea2c54c78b7d6b417796539ab71424e8e4ec42c3642a983174f187029a0ca",
+ "added": "2026-11-24T08:10:53Z"
+}

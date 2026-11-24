@@ -1,0 +1,28 @@
+{
+ "n": 75,
+ "key": "day075",
+ "title": "Day 75 · Week 10, Day 5 — Protocol: the hundred-and-fifty-minute plan — what the minutes do to diabetes, blood pressure and mood, the one woman in eight who gets there, the talk test, and a calendar built for two",
+ "week": "Week 10, Day 5",
+ "summary": "The Protocol episode for week 10 turns the 150-minute guideline into a week. What the dose buys: in randomized trials, exercise alone cut the odds of gestational diabetes, gestational hypertension and preeclampsia by about 40% each, with ~140 minutes of moderate activity a week needed for at least a 25% reduction (Davenport 2018, 106 studies, 273,182 women), and cut the odds of prenatal depression by two thirds in five trials, though not postpartum depression or anxiety. In overweight and obese women, aerobic exercise lowered preterm birth (RR 0.62; Magro-Malosso 2017). The dissent: an older Cochrane review (Han 2012, 5 trials) found no clear effect on gestational diabetes, dominated by a trial where only about half the exercise group exercised. Only ~13% of US pregnant women meet the guideline (Hesketh & Evenson 2016), and self-report overestimates moderate activity by about an hour a week. WHO 2020, ACOG 804 and the Canadian guideline agree on at least 150 minutes over at least three days with strength work, every minute counting. Intensity by talk test and Borg 12–14, strength rules, the sickness weeks, sitting, the postpartum continuation, the stop list, a template week for active and newly active women, and the couple rule: a shared calendar, three sessions together, both totals counted.",
+ "action": "Tonight, open a shared calendar and put in next week's 150 minutes: five 30-minute blocks, two marked strength, at times she chooses around her sickness, at least three marked together. Add your own 150 minutes to the same calendar. On Sunday, write both weekly totals on the back page of the pregnancy file.",
+ "sources": [
+  "Davenport MH, Ruchat SM, Poitras VJ, et al. Prenatal exercise for the prevention of gestational diabetes mellitus and hypertensive disorders of pregnancy: a systematic review and meta-analysis. Br J Sports Med 2018;52:1367–1375. https://pubmed.ncbi.nlm.nih.gov/30337463/",
+  "Davenport MH, McCurdy AP, Mottola MF, et al. Impact of prenatal exercise on both prenatal and postnatal anxiety and depressive symptoms: a systematic review and meta-analysis. Br J Sports Med 2018;52:1376–1385. https://pubmed.ncbi.nlm.nih.gov/30337464/",
+  "Magro-Malosso ER, Saccone G, Di Mascio D, Di Tommaso M, Berghella V. Exercise during pregnancy and risk of preterm birth in overweight and obese women: a systematic review and meta-analysis of randomized controlled trials. Acta Obstet Gynecol Scand 2017;96:263–273. https://pubmed.ncbi.nlm.nih.gov/28029178/",
+  "Han S, Middleton P, Crowther CA. Exercise for pregnant women for preventing gestational diabetes mellitus. Cochrane Database Syst Rev 2012;(7):CD009021. https://pubmed.ncbi.nlm.nih.gov/22786521/",
+  "Stafne SN, Salvesen KÅ, Romundstad PR, et al. Regular exercise during pregnancy to prevent gestational diabetes: a randomized controlled trial. Obstet Gynecol 2012;119:29–36.",
+  "Hesketh KR, Evenson KR. Prevalence of U.S. pregnant women meeting 2015 ACOG physical activity guidelines. Am J Prev Med 2016;51:e87–e89. https://pmc.ncbi.nlm.nih.gov/articles/PMC4982752/",
+  "Hesketh KR, Wen F, Herring AH, Siega-Riz AM, Evenson KR. Perception and reality: the mismatch between absolute and relative physical activity intensity during pregnancy and postpartum in United States women. Prev Med 2024;182:107948. https://pubmed.ncbi.nlm.nih.gov/38583604/",
+  "Bull FC, Al-Ansari SS, Biddle S, et al. World Health Organization 2020 guidelines on physical activity and sedentary behaviour. Br J Sports Med 2020;54:1451–1462. https://pubmed.ncbi.nlm.nih.gov/33239350/",
+  "ACOG Committee Opinion No. 804. Physical Activity and Exercise During Pregnancy and the Postpartum Period. Obstet Gynecol 2020;135:e178–e188. https://pubmed.ncbi.nlm.nih.gov/32217980/",
+  "Mottola MF, Davenport MH, Ruchat SM, et al. 2019 Canadian guideline for physical activity throughout pregnancy. Br J Sports Med 2018;52:1339–1346. https://pubmed.ncbi.nlm.nih.gov/30337460/",
+  "Gregory ECW, Ely DM. Trends and characteristics in gestational diabetes: United States, 2016–2020. Natl Vital Stat Rep 2022;71(3).",
+  "Ford ND, Cox S, Ko JY, et al. Hypertensive disorders in pregnancy and mortality at delivery hospitalization — United States, 2017–2019. MMWR 2022;71:585–591.",
+  "Jackson SE, Steptoe A, Wardle J. The influence of partner's behavior on health behavior change: the English Longitudinal Study of Ageing. JAMA Intern Med 2015;175:385–392."
+ ],
+ "audio": "audio/day075.mp3",
+ "bytes": 5138637,
+ "seconds": 1285,
+ "sha256": "6965617a0e76ac50ea2fa59ce1953bb6997bb5cd3d8b8cb60d9659df118afa8d",
+ "added": "2026-11-24T08:10:53Z"
+}
