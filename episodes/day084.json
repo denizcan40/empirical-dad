@@ -1,0 +1,28 @@
+{
+ "n": 84,
+ "key": "day084",
+ "title": "Day 84 · Week 12, Day 0 — Body: the reflex kit — the startle, the grasp, the suck and the swallow, the gut that comes home from the cord, the fifty-six percent sex call, and the three feeding cues you'll read at four in the morning",
+ "week": "Week 12, Day 0",
+ "summary": "Week 12 opens, the last full week of the first trimester. Your baby is about 5.4 cm head to bottom (NHS), skeleton hardening, placenta likely feeding them. The Body episode is the reflexes: what a reflex is and why a baby with almost no cortex can run one (spinal and brainstem circuits; MedlinePlus); the startle, seen from ~8 weeks and one of the movements that rises then falls (de Vries, Visser & Prechtl), becoming the newborn Moro reflex with its brainstem centre and diagnostic weight (Futagi 2012); the palmar and plantar grasp and the AAP timetable for when each newborn reflex fades; sucking and swallowing, the fetus as a heavy drinker for its size (Ross & Nijland 1997) and why no ultrasound can measure how much; the gut returning from the umbilical cord (still visible in 5% at 12 weeks; Bogers 2019); why a first-trimester sex call is at best 56% right (Bogers 2018); and why suck–swallow–breathe coordination is one of the last skills to mature (Lau 2016), with the three AAP feeding cues — rooting, sucking, hand to mouth.",
+ "action": "Open the pregnancy file and add a section called 'First weeks' with two lines: 'Feeding cues: rooting, sucking, hand to mouth. Feed before the crying.' and 'Reflexes fade: stepping and startle by about two to four months, rooting by four, palm grip by six, fencing by seven, foot grip by twelve.'",
+ "sources": [
+  "NHS — You and your baby at 12 weeks pregnant. https://www.nhs.uk/pregnancy/week-by-week/1-to-12/12-weeks/",
+  "MedlinePlus — Infant reflexes. https://medlineplus.gov/ency/article/003292.htm",
+  "MedlinePlus — Moro reflex. https://medlineplus.gov/ency/article/003293.htm",
+  "AAP / HealthyChildren.org — Newborn Reflexes. https://www.healthychildren.org/English/ages-stages/baby/Pages/Newborn-Reflexes.aspx",
+  "de Vries JI, Visser GH, Prechtl HF. The emergence of fetal behaviour. I. Qualitative aspects. Early Hum Dev 1982;7:301–322. https://pubmed.ncbi.nlm.nih.gov/7169027/",
+  "de Vries JI, Visser GH, Prechtl HF. The emergence of fetal behaviour. II. Quantitative aspects. Early Hum Dev 1985;12:99–120. https://pubmed.ncbi.nlm.nih.gov/3905353/",
+  "Futagi Y, Toribe Y, Suzuki Y. The grasp reflex and Moro reflex in infants: hierarchy of primitive reflex responses. Int J Pediatr 2012;2012:191562. https://pubmed.ncbi.nlm.nih.gov/22778756/",
+  "Ross MG, Nijland MJ. Fetal swallowing: relation to amniotic fluid regulation. Clin Obstet Gynecol 1997;40:352–365. https://pubmed.ncbi.nlm.nih.gov/9199846/",
+  "van den Brink A, Stoutenbeek P. Quantification of fetal swallowing by ultrasound is impossible. Ultrasound Obstet Gynecol 2006;28:977–978. https://pubmed.ncbi.nlm.nih.gov/17094180/",
+  "Bogers H et al. Evaluation of first-trimester physiological midgut herniation using three-dimensional ultrasound. Fetal Diagn Ther 2019;45:332–338. https://pubmed.ncbi.nlm.nih.gov/30110700/",
+  "Bogers H et al. Accuracy of fetal sex determination in the first trimester of pregnancy using 3D virtual reality ultrasound. J Clin Ultrasound 2018;46:241–246. https://pubmed.ncbi.nlm.nih.gov/29048748/",
+  "Lau C. Development of infant oral feeding skills: what do we know? Am J Clin Nutr 2016;103:616S–621S. https://pubmed.ncbi.nlm.nih.gov/26791183/",
+  "Yang TY et al. Novel approach to distinguish submucous cleft palate from isolated cleft palate by ultrasound visualization of fetal swallowing. Ultrasound Obstet Gynecol 2023;62:603–605. https://pubmed.ncbi.nlm.nih.gov/37058361/"
+ ],
+ "audio": "audio/day084.mp3",
+ "bytes": 5012493,
+ "seconds": 1253,
+ "sha256": "3ef878a3f6eb0218b4b7b0dd5aba65bfe52302dc4b354b68edb27f9f0693eeed",
+ "added": "2026-11-25T15:55:39Z"
+}

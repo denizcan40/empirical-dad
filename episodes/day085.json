@@ -1,0 +1,26 @@
+{
+ "n": 85,
+ "key": "day085",
+ "title": "Day 85 · Week 12, Day 1 — Brain: the first preference — the right arm at ten weeks, the thumb at fifteen, sixty of sixty, the spinal cord that picks a side before the brain, the one in ten, and the left-handers who didn't die young",
+ "week": "Week 12, Day 1",
+ "summary": "The Brain episode on handedness, which starts long before the first crayon. At 10 weeks 85% of 72 fetuses moved the right arm more than the left, at an age when the brain probably isn't driving the arms (Hepper 1998). From 15 weeks most fetuses suck the right thumb, independent of position (Hepper 1991), and in the one follow-up, 60 of 60 right-thumb-suckers were right-handed at 10–12 years and 10 of 15 left-thumb-suckers were left-handed (Hepper 2005). The preference may begin in the spinal cord, with epigenetically regulated left–right gene expression (Ocklenburg 2017, five fetuses). Left-handedness prevalence is 9.3–18.1% depending on definition, best estimate 10.6%, with cultural pressure lowering observed rates (Papadatou-Pastou 2020); genes explain ~25% of variation and the shared family environment none (Medland 2006, 21,127 twin pairs); 41 loci for left-handedness and 7 for ambidexterity in 1.77 million people (Cuellar-Partida 2021); blood methylation captures little (Odintsova 2022). The old claim that left-handers die younger was an artefact of switched children (Salive 1993). Verdict: nothing to optimise; let the hand choose.",
+ "action": "In the pregnancy file's 'First weeks' section, add one line: 'Hand: let them choose. Don't move the crayon.' At the next scan, watch the arms — the preference is already there.",
+ "sources": [
+  "Rakic P, Yakovlev PI. Development of the corpus callosum and cavum septi in man. J Comp Neurol 1968;132:45–72. https://pubmed.ncbi.nlm.nih.gov/5293999/",
+  "Hepper PG, McCartney GR, Shannon EA. Lateralised behaviour in first trimester human foetuses. Neuropsychologia 1998;36:531–534. https://pubmed.ncbi.nlm.nih.gov/9705063/",
+  "Hepper PG, Shahidullah S, White R. Handedness in the human fetus. Neuropsychologia 1991;29:1107–1111. https://pubmed.ncbi.nlm.nih.gov/1775228/",
+  "Hepper PG, Wells DL, Lynch C. Prenatal thumb sucking is related to postnatal handedness. Neuropsychologia 2005;43:313–315. https://pubmed.ncbi.nlm.nih.gov/15707608/",
+  "Ocklenburg S et al. Epigenetic regulation of lateralized fetal spinal gene expression underlies hemispheric asymmetries. eLife 2017;6:e22784. https://pubmed.ncbi.nlm.nih.gov/28145864/",
+  "Papadatou-Pastou M et al. Human handedness: a meta-analysis. Psychol Bull 2020;146:481–524. https://pubmed.ncbi.nlm.nih.gov/32237881/",
+  "Medland SE, Duffy DL, Wright MJ, Geffen GM, Martin NG. Handedness in twins: joint analysis of data from 35 samples. Twin Res Hum Genet 2006;9:46–53. https://pubmed.ncbi.nlm.nih.gov/16611467/",
+  "Cuellar-Partida G et al. Genome-wide association study identifies 48 common genetic variants associated with handedness. Nat Hum Behav 2021;5:59–70. https://pubmed.ncbi.nlm.nih.gov/32989287/",
+  "Odintsova VV et al. DNA methylation in peripheral tissues and left-handedness. Sci Rep 2022;12:5606. https://pubmed.ncbi.nlm.nih.gov/35379837/",
+  "Halpern DF, Coren S. Handedness and life span. N Engl J Med 1991;324:998. https://pubmed.ncbi.nlm.nih.gov/2002827/",
+  "Salive ME, Guralnik JM, Glynn RJ. Left-handedness and mortality. Am J Public Health 1993;83:265–267. https://pubmed.ncbi.nlm.nih.gov/8427338/"
+ ],
+ "audio": "audio/day085.mp3",
+ "bytes": 5102829,
+ "seconds": 1276,
+ "sha256": "d0201ffd7038c4cd7c6f10b02f336bb5884e9c02656ad1835491ae7d53c41e78",
+ "added": "2026-11-25T15:55:39Z"
+}
