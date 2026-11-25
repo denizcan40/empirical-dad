@@ -1,0 +1,26 @@
+{
+ "n": 87,
+ "key": "day087",
+ "title": "Day 87 · Week 12, Day 3 — Parents: the two of you — the small average drop and the sudden step at the birth, the childless couples who drift too, what a husband's fondness predicts, and the eight-class programme that changed the outcome in two trials",
+ "week": "Week 12, Day 3",
+ "summary": "What a first baby does to a couple, measured. Twenge 2003 (97 articles, 47,692 people): parents slightly less satisfied than non-parents (d = −0.19), largest for mothers of infants (38% vs 62% highly satisfied), explained by role conflict and restricted freedom. Mitnick 2009 (37 longitudinal studies): small declines to 11 months, moderate by 12–14 months — but childless newlyweds decline similarly. Lawrence 2008 (156 couples with childless controls): parenthood hastens decline; planning and pre-pregnancy satisfaction protect. Doss 2009 (218 couples, 8 years): a sudden, persistent, small-to-medium drop at the birth in mothers and fathers alike, against a gradual slope in non-parents. Shapiro, Gottman & Carrère 2000: a husband's fondness and awareness predicted mothers' satisfaction holding steady; negativity, disappointment and chaos predicted decline. The trials: the Cowans' couples groups (less decline over 66 months), and Family Foundations — coparenting classes before and after the birth — in 169 couples (coparental support, maternal depression and anxiety, infant regulation; effects to 3.5 years) and 399 couples (better on two-thirds of measures, large effects on family violence, most benefit for higher-risk couples). Pinquart & Teubert's 142-trial meta-analysis as the reality check (couple adjustment d = 0.13).",
+ "action": "Tonight, ask your partner one question and only listen: 'What are you most worried will change between us after the baby comes?' No solving, no defending — a follow-up question or two. Then start a section called 'Us' in the pregnancy file and write one line with what she said.",
+ "sources": [
+  "Twenge JM, Campbell WK, Foster CA. Parenthood and marital satisfaction: a meta-analytic review. J Marriage Fam 2003;65:574–583.",
+  "Mitnick DM, Heyman RE, Smith Slep AM. Changes in relationship satisfaction across the transition to parenthood: a meta-analysis. J Fam Psychol 2009;23:848–852. https://pubmed.ncbi.nlm.nih.gov/20001143/",
+  "Lawrence E, Rothman AD, Cobb RJ, Rothman MT, Bradbury TN. Marital satisfaction across the transition to parenthood. J Fam Psychol 2008;22:41–50. https://pubmed.ncbi.nlm.nih.gov/18266531/",
+  "Doss BD, Rhoades GK, Stanley SM, Markman HJ. The effect of the transition to parenthood on relationship quality: an 8-year prospective study. J Pers Soc Psychol 2009;96:601–619. https://pubmed.ncbi.nlm.nih.gov/19254107/",
+  "Shapiro AF, Gottman JM, Carrère S. The baby and the marriage: identifying factors that buffer against decline in marital satisfaction after the first baby arrives. J Fam Psychol 2000;14:59–70. https://pubmed.ncbi.nlm.nih.gov/10740682/",
+  "Schulz MS, Cowan CP, Cowan PA. Promoting healthy beginnings: a randomized controlled trial of a preventive intervention to preserve marital quality during the transition to parenthood. J Consult Clin Psychol 2006;74:20–31. https://pubmed.ncbi.nlm.nih.gov/16551140/",
+  "Feinberg ME. The internal structure and ecological context of coparenting: a framework for research and intervention. Parent Sci Pract 2003;3:95–131.",
+  "Feinberg ME, Kan ML. Establishing Family Foundations: intervention effects on coparenting, parent/infant well-being, and parent-child relations. J Fam Psychol 2008;22:253–263. https://pubmed.ncbi.nlm.nih.gov/18410212/",
+  "Feinberg ME, Jones DE, Kan ML, Goslin MC. Effects of Family Foundations on parents and children: 3.5 years after baseline. J Fam Psychol 2010;24:532–542. https://pubmed.ncbi.nlm.nih.gov/20954763/",
+  "Feinberg ME, Jones DE, Hostetler ML, Roettger ME, Paul IM, Ehrenthal DB. Couple-focused prevention at the transition to parenthood, a randomized trial: effects on coparenting, parenting, family violence, and parent and child adjustment. Prev Sci 2016;17:751–764. https://pubmed.ncbi.nlm.nih.gov/27334116/",
+  "Pinquart M, Teubert D. Effects of parenting education with expectant and new parents: a meta-analysis. J Fam Psychol 2010;24:316–327. https://pubmed.ncbi.nlm.nih.gov/20545405/"
+ ],
+ "audio": "audio/day087.mp3",
+ "bytes": 4953165,
+ "seconds": 1238,
+ "sha256": "fce820fab92deca049ae6649b5156bdb0788655fdcb832dae49e2617b0e04827",
+ "added": "2026-11-25T23:23:05Z"
+}

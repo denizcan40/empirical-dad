@@ -1,0 +1,27 @@
+{
+ "n": 86,
+ "key": "day086",
+ "title": "Day 86 · Week 12, Day 2 — Physiology: her immune system runs on a clock — the three phases, the cells your baby leaves in her for decades, the flu numbers by trimester, the two-day antiviral window, and the conditions that go quiet and then rebound",
+ "week": "Week 12, Day 2",
+ "summary": "Pregnancy is not immune suppression. Medawar's 1953 puzzle (a half-foreign fetus that is never rejected) and the modern answer: a modulated, timed programme in three phases — inflammatory implantation and first trimester, anti-inflammatory second trimester, inflammatory labour (Mor & Cardenas 2010). The Stanford immune clock (Aghaeepour 2017): mass cytometry on 18 women's blood read the stage of pregnancy and validated in 10 more. Fetal microchimerism: male cells in 6 of 8 mothers of sons, up to 27 years later (Bianchi 1996). Which infections are worse — influenza, hepatitis E, herpes simplex, malaria; more susceptibility to listeria — and which are not (Kourtis 2014). Flu by trimester in Tennessee Medicaid (odds up to 4.67 at term; 10.5 flu-attributable events per 10,000 women-months in the third trimester), the 2009 pandemic (1% of the population, 5% of deaths; ICU 56.9% if antivirals began after four days vs 9.4% within two), COVID (fewer symptoms but ICU OR 2.13), and the Bangladesh trial (63% fewer lab-confirmed infant flu cases after maternal vaccination). Multiple sclerosis relapses down about 70% in the third trimester and up after birth (PRIMS); rheumatoid arthritis improving in about half with active disease, 39% postpartum flare (PARA). The father as the household's main route of infection, and the same-day call.",
+ "action": "If you haven't had this season's flu vaccine, book it this week, and check that hers is on the list for her next appointment. In the pregnancy file, next to the practice's numbers, add: 'Flu symptoms or fever: call the same day. Antivirals work best within two days. Don't wait for a test.'",
+ "sources": [
+  "Medawar PB. Some immunological and endocrinological problems raised by the evolution of viviparity in vertebrates. Symp Soc Exp Biol 1953;7:320–338.",
+  "Mor G, Cardenas I. The immune system in pregnancy: a unique complexity. Am J Reprod Immunol 2010;63:425–433. https://pubmed.ncbi.nlm.nih.gov/20367629/",
+  "Aghaeepour N, Ganio EA, Mcilwain D, et al. An immune clock of human pregnancy. Sci Immunol 2017;2:eaan2946. https://pubmed.ncbi.nlm.nih.gov/28864494/",
+  "Bianchi DW, Zickwolf GK, Weil GJ, Sylvester S, DeMaria MA. Male fetal progenitor cells persist in maternal blood for as long as 27 years postpartum. Proc Natl Acad Sci U S A 1996;93:705–708. https://pubmed.ncbi.nlm.nih.gov/8570620/",
+  "Kourtis AP, Read JS, Jamieson DJ. Pregnancy and infection. N Engl J Med 2014;370:2211–2218. https://pubmed.ncbi.nlm.nih.gov/24897084/",
+  "Neuzil KM, Reed GW, Mitchel EF, Simonsen L, Griffin MR. Impact of influenza on acute cardiopulmonary hospitalizations in pregnant women. Am J Epidemiol 1998;148:1094–1102. https://pubmed.ncbi.nlm.nih.gov/9850132/",
+  "Siston AM, Rasmussen SA, Honein MA, et al. Pandemic 2009 influenza A(H1N1) virus illness among pregnant women in the United States. JAMA 2010;303:1517–1525. https://pubmed.ncbi.nlm.nih.gov/20407061/",
+  "Allotey J, Stallings E, Bonet M, et al. Clinical manifestations, risk factors, and maternal and perinatal outcomes of coronavirus disease 2019 in pregnancy: living systematic review and meta-analysis. BMJ 2020;370:m3320. https://pubmed.ncbi.nlm.nih.gov/32873575/",
+  "Zaman K, Roy E, Arifeen SE, et al. Effectiveness of maternal influenza immunization in mothers and infants. N Engl J Med 2008;359:1555–1564. https://pubmed.ncbi.nlm.nih.gov/18799552/",
+  "Confavreux C, Hutchinson M, Hours MM, Cortinovis-Tourniaire P, Moreau T. Rate of pregnancy-related relapse in multiple sclerosis. N Engl J Med 1998;339:285–291. https://pubmed.ncbi.nlm.nih.gov/9682040/",
+  "de Man YA, Dolhain RJ, van de Geijn FE, Willemsen SP, Hazes JM. Disease activity of rheumatoid arthritis during pregnancy: results from a nationwide prospective study. Arthritis Rheum 2008;59:1241–1248. https://pubmed.ncbi.nlm.nih.gov/18759316/",
+  "CDC — Influenza antiviral medications: summary for clinicians; Flu vaccine safety and pregnancy. https://www.cdc.gov/flu/hcp/antivirals/summary-clinicians.html"
+ ],
+ "audio": "audio/day086.mp3",
+ "bytes": 5701293,
+ "seconds": 1425,
+ "sha256": "7cb54f1def7f4b0389ee504013fa994b6bd0b75ce7df1f4124738395d3aae497",
+ "added": "2026-11-25T23:23:05Z"
+}
