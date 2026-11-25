@@ -1,0 +1,25 @@
+{
+ "n": 83,
+ "key": "day083",
+ "title": "Day 83 · Week 11, Day 6 — Myths: she has to sleep on her left side from now on, pelvic floor training makes the birth harder, and sit-ups split her stomach muscles",
+ "week": "Week 11, Day 6",
+ "summary": "Three myths about the months ahead. Sleep: the vena cava compression is real in late pregnancy, and from 28 weeks going to sleep on the back was linked to 2.6 times the odds of late stillbirth (Cronin 2019 IPD meta-analysis, 851 cases, 2,257 controls) on a baseline of roughly 1–9 per 1,000 — but the right side is as safe as the left (aOR 1.04), and before 28–30 weeks a prospective cohort of 8,706 first pregnancies (nuMoM2b) found no link between back or right-side sleep and stillbirth, growth restriction or hypertensive disorders. Pelvic floor training: in 18,865 Norwegian first-time mothers, training three or more times a week did not increase severe tears, episiotomy, instrumental birth or emergency caesarean, and a meta-analysis of 12 trials found slightly shorter labour stages with no change in tears. Abdominal separation: present in 100% of first-time mothers at 35 weeks and 33% at 21 weeks, narrowing over the first year, not linked to back or pelvic pain; antenatal exercise associated with 35% less diastasis on weak evidence; curl-ups narrow rather than widen the gap. Why ACOG's advice on avoiding long periods supine during exercise is about blood flow, not abdominal muscles.",
+ "action": "In the shared calendar, put one entry at 28 weeks (Day 196): 'Side-sleeping from tonight, either side. Pillows.' In the pregnancy file's Pelvic floor section, add: 'Every squeeze ends with a full let-go.' Tonight, tell her the short version: any sleep position she likes, for now.",
+ "sources": [
+  "Cronin RS, Li M, Thompson JMD, Gordon A, Raynes-Greenow CH, Heazell AEP, et al. An individual participant data meta-analysis of maternal going-to-sleep position, interactions with fetal vulnerability, and the risk of late stillbirth. EClinicalMedicine 2019;10:49–57. https://pubmed.ncbi.nlm.nih.gov/31193832/",
+  "Silver RM, Hunter S, Reddy UM, Facco F, Gibbins KJ, Grobman WA, et al. Prospective evaluation of maternal sleep position through 30 weeks of gestation and adverse pregnancy outcomes. Obstet Gynecol 2019;134:667–676. https://pubmed.ncbi.nlm.nih.gov/31503146/",
+  "Bø K, Fleten C, Nystad W. Effect of antenatal pelvic floor muscle training on labor and birth. Obstet Gynecol 2009;113:1279–1284. https://pubmed.ncbi.nlm.nih.gov/19461423/",
+  "Du Y, Xu L, Ding L, Wang Y, Wang Z. The effect of antenatal pelvic floor muscle training on labor and delivery outcomes: a systematic review with meta-analysis. Int Urogynecol J 2015;26:1415–1427. https://pubmed.ncbi.nlm.nih.gov/25711728/",
+  "Woodley SJ et al. Pelvic floor muscle training for preventing and treating urinary and faecal incontinence in antenatal and postnatal women. Cochrane Database Syst Rev 2020;5:CD007471. https://pubmed.ncbi.nlm.nih.gov/32378735/",
+  "Fernandes da Mota PG, Pascoal AG, Carita AI, Bø K. Prevalence and risk factors of diastasis recti abdominis from late pregnancy to 6 months postpartum, and relationship with lumbo-pelvic pain. Man Ther 2015;20:200–205. https://pubmed.ncbi.nlm.nih.gov/25282439/",
+  "Sperstad JB, Tennfjord MK, Hilde G, Ellström-Engh M, Bø K. Diastasis recti abdominis during pregnancy and 12 months after childbirth: prevalence, risk factors and report of lumbopelvic pain. Br J Sports Med 2016;50:1092–1096. https://pubmed.ncbi.nlm.nih.gov/27324871/",
+  "Benjamin DR, van de Water AT, Peiris CL. Effects of exercise on diastasis of the rectus abdominis muscle in the antenatal and postnatal periods: a systematic review. Physiotherapy 2014;100:1–8. https://pubmed.ncbi.nlm.nih.gov/24268942/",
+  "Lee D, Hodges PW. Behavior of the linea alba during a curl-up task in diastasis rectus abdominis: an observational study. J Orthop Sports Phys Ther 2016;46:580–589. https://pubmed.ncbi.nlm.nih.gov/27363572/",
+  "ACOG Committee Opinion No. 804. Physical Activity and Exercise During Pregnancy and the Postpartum Period. Obstet Gynecol 2020;135:e178–e188."
+ ],
+ "audio": "audio/day083.mp3",
+ "bytes": 4968909,
+ "seconds": 1242,
+ "sha256": "5bf29e3a513d3d412619bf7661db4575380f6c22963582f18cbf812e8306bfe9",
+ "added": "2026-11-25T05:30:53Z"
+}
