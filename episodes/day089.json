@@ -1,0 +1,23 @@
+{
+ "n": 89,
+ "key": "day089",
+ "title": "Day 89 · Week 12, Day 5 — Protocol: the leave conversation — what a father's leave does to his involvement, the Swedish reform that cut mothers' anxiety prescriptions by a quarter, the twelve unpaid weeks only 56% qualify for, and a six-step script",
+ "week": "Week 12, Day 5",
+ "summary": "Why a father's leave is worth planning in week 13, and how. Involvement: Petts & Knoester 2018 (national US cohort) — longer leave, more developmental and caretaking engagement in infancy and over the following years, partly explained by fathers' attitudes; Knoester, Petts & Pragg 2019 (2,109 Fragile Families fathers) — leave and its length linked to engagement and responsibility at one year and growing responsibility to age five. Pay changes behaviour: California's paid family leave made fathers of infants 46% more likely to be on leave (Bartel et al. 2018). Her health: Sweden's 2012 reform letting fathers take up to 30 intermittent paid days while the mother was on leave cut mothers' specialist visits or admissions for complications by 14%, antibiotic prescriptions by 11% and anti-anxiety prescriptions by 26% in the first six months, though most fathers used only a few days (Persson & Rossin-Slater 2024). His health: unpaid leave and unmet leave needs linked to anxiety and depression symptoms in Ohio fathers (Garfield 2026), but no overall association in the UK (Humphreys 2025). The rules: FMLA gives up to 12 weeks unpaid to eligible employees (12 months, 1,250 hours, 50 employees within 75 miles); 56% are eligible, and of leave-takers 34% get no pay (DOL 2018). The protocol: read the policy, map it onto a moving due date, decide the shape together (time together, a reserve of single days in the first three months, solo time later), pick the moment, lead with the coverage plan, put it in writing.",
+ "action": "Tonight, find and read your employer's parental leave policy. In the pregnancy file, add a 'Leave' section with five facts: weeks available, pay and who pays it, your eligibility date, whether leave can be split into single days, and the notice required. Anything you can't find is your question for HR.",
+ "sources": [
+  "Petts RJ, Knoester C. Paternity leave-taking and father engagement. J Marriage Fam 2018;80:1144–1162. https://pubmed.ncbi.nlm.nih.gov/30197452/",
+  "Knoester C, Petts RJ, Pragg B. Paternity leave-taking and father involvement among socioeconomically disadvantaged U.S. fathers. Sex Roles 2019;81:257–271. https://pubmed.ncbi.nlm.nih.gov/31406394/",
+  "Bartel AP, Rossin-Slater M, Ruhm CJ, Stearns J, Waldfogel J. Paid family leave, fathers' leave-taking, and leave-sharing in dual-earner households. J Policy Anal Manage 2018;37:10–37. https://pubmed.ncbi.nlm.nih.gov/29320808/",
+  "Persson P, Rossin-Slater M. When dad can stay home: fathers' workplace flexibility and maternal health. Am Econ J Appl Econ 2024. https://pubmed.ncbi.nlm.nih.gov/41019476/ ; Stanford Medicine news summary, 2019: https://med.stanford.edu/news/all-news/2019/06/its-good-for-new-moms-health-when-dads-can-stay-home.html",
+  "Garfield CF, Simon CD, Luri M, Menegay M. Paternity leave status and mental health symptoms among Ohio fathers: a population-representative survey, 2022–2023. Am J Public Health 2026;116:1136–1145. https://pubmed.ncbi.nlm.nih.gov/42314083/",
+  "Humphreys E, O'Neill S, Filippi V, Courtin E. Paternity leave, mental health and wellbeing for new parents: evidence from a national survey in the UK. SSM Popul Health 2025. https://pubmed.ncbi.nlm.nih.gov/40474945/",
+  "US Department of Labor. Employee and Worksite Perspectives of the Family and Medical Leave Act: Results from the 2018 Surveys (one-page summary). https://www.dol.gov/sites/dolgov/files/OASP/evaluation/pdf/FMLA%20Report%20OnePager.pdf",
+  "US Department of Labor, Wage and Hour Division. Family and Medical Leave Act (eligibility, entitlement and notice; 29 CFR Part 825). https://www.dol.gov/agencies/whd/fmla"
+ ],
+ "audio": "audio/day089.mp3",
+ "bytes": 4783149,
+ "seconds": 1196,
+ "sha256": "61a542e7aa50bb98bdfefde6ad8a7a8600e5bab66bf90ae23f430fedb7561931",
+ "added": "2026-11-27T17:26:57Z"
+}

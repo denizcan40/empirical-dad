@@ -1,0 +1,24 @@
+{
+ "n": 88,
+ "key": "day088",
+ "title": "Day 88 · Week 12, Day 4 — Adventure: the second-trimester travel window — why the middle is the time to go, the one direct study of flying, the 36-week and 24-week cutoffs, the insurance clause nobody reads, and the water rules that are stricter for her",
+ "week": "Week 12, Day 4",
+ "summary": "Why ACOG calls weeks 14–28 (Days 98–196) the best time to travel: obstetric complications cluster in the first and third trimesters, and 10.41% of US births in 2023 were preterm (NCHS). Flying: Freeman 2004 (222 women, 53% flew, no difference in gestational age, birth weight, bleeding or preterm birth); Magann 2010 (9 studies; preterm OR 1.44 in passengers, unproven as causal); ACOG CO 746 says occasional air travel is safe in an uncomplicated pregnancy. The rules: most airlines to 36 weeks, some international routes earlier, applying to the flight home; most cruise lines stop at 24 weeks. In-flight emergencies (Peterson, NEJM 2013): 1 per 604 flights, 7.3% diverted. The CDC Yellow Book's absolute and relative reasons not to travel, the insurance gap for pregnancy and newborn care abroad, locating obstetric care at each stop, carrying records. Food and water: hepatitis E (case-fatality 15–25% in pregnancy), bottled or boiled water and no iodine purification, unpasteurised cheese, fresh water. Travellers' diarrhoea: rehydration first, azithromycin or a third-generation cephalosporin if needed, no bismuth subsalicylate, fluoroquinolones generally avoided. Live vaccines wait; yellow fever is a precaution; reconsider Zika areas, avoid or delay malaria areas. The car: the second-trimester crash risk from Day 53 and the belt.",
+ "action": "Add three dates to the shared calendar — 14 weeks (Day 98, 'window opens'), 24 weeks (Day 168, 'cruise cutoff') and 28 weeks (Day 196, 'window closes'). If a trip is on the table, search the travel insurance policy for the word 'pregnancy' and write what it says in the pregnancy file under 'Travel'.",
+ "sources": [
+  "ACOG. Travel During Pregnancy (patient FAQ). https://www.acog.org/womens-health/faqs/travel-during-pregnancy",
+  "ACOG Committee Opinion No. 746. Air Travel During Pregnancy. Obstet Gynecol 2018;132:e64–e66.",
+  "CDC Yellow Book — Pregnant Travelers (2025). https://www.cdc.gov/yellow-book/hcp/family-travel/pregnant-travelers.html",
+  "CDC Yellow Book — Travelers' Diarrhea (2026). https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/travelers-diarrhea.html",
+  "Freeman M, Ghidini A, Spong CY, Tchabo N, Bannon PZ, Pezzullo JC. Does air travel affect pregnancy outcome? Arch Gynecol Obstet 2004;269:274–277. https://pubmed.ncbi.nlm.nih.gov/15205979/",
+  "Magann EF, Chauhan SP, Dahlke JD, McKelvey SS, Watson EM, Morrison JC. Air travel and pregnancy outcomes: a review of pregnancy regulations and outcomes for passengers, flight attendants, and aviators. Obstet Gynecol Surv 2010;65:396–402. https://pubmed.ncbi.nlm.nih.gov/20633306/",
+  "Peterson DC, Martin-Gill C, Guyette FX, et al. Outcomes of medical emergencies on commercial airline flights. N Engl J Med 2013;368:2075–2083. https://pubmed.ncbi.nlm.nih.gov/23718164/",
+  "Osterman MJK, Hamilton BE, Martin JA, Driscoll AK, Valenzuela CP. Births: Final Data for 2023. Natl Vital Stat Rep 2025. https://pubmed.ncbi.nlm.nih.gov/40961109/",
+  "Redelmeier DA, May SC, Thiruchelvam D, Barrett JFR. Pregnancy and the risk of a traffic crash. CMAJ 2014;186:742–750."
+ ],
+ "audio": "audio/day088.mp3",
+ "bytes": 5411853,
+ "seconds": 1353,
+ "sha256": "af4a440519eba2ecf8debe19391661944cafa0a4460c6c8d50fea51b5364896a",
+ "added": "2026-11-27T17:26:57Z"
+}
