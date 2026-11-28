@@ -1,0 +1,33 @@
+{
+ "n": 90,
+ "key": "day090",
+ "title": "Day 90 · Week 12, Day 6 — Myths: the first weeks are the mother's job, fathers who take leave pay for it at work, and a newborn doesn't know who's holding them",
+ "week": "Week 12, Day 6",
+ "summary": "Three myths about the father's place in the first weeks. The first weeks are the mother's job: false — one breastfeeding training session for fathers raised full breastfeeding at six months from 15% to 25% (Pisacane 2005, 280 couples); newborns born by caesarean who lay skin-to-skin on their father cried less and settled sooner (Erlandsson 2007 RCT); flexible father leave in Sweden cut mothers' complications, antibiotics and anti-anxiety prescriptions; fathers' testosterone falls with fatherhood and hands-on care (Gettler 2011, n=624) and their caregiving brain tracks the hours of direct care (Abraham 2014); one father in ten is depressed in the perinatal year. Fathers who take leave pay for it at work: partly true and small — four weeks of Norwegian quota leave cut fathers' later earnings by 2.1% (Rege & Solli 2013), which the authors read as fathers doing more at home; flexibility stigma is real in experiments (Rudman & Mescher 2013); leave also goes with more stable couples and closer father–child relationships at age nine. A newborn doesn't know who's holding them: half true, wrong conclusion — newborns prefer the mother's voice and smell, not the father's voice (DeCasper & Fifer 1980; DeCasper & Prescott 1984; Macfarlane 1975), but they regulate on any warm chest, attachment to the father is built over the first year, and paternal sensitivity predicts its security (Lucassen 2011 meta-analysis, r = 0.12).",
+ "action": "Ask your partner tonight: if the birth is a caesarean, or she can't hold the baby straight away for any reason, would she like you to do skin-to-skin in the meantime? If yes, add a 'Birth preferences' page to the pregnancy file and write it down: 'If mother is unable, father skin-to-skin.'",
+ "sources": [
+  "Pisacane A, Continisio GI, Aldinucci M, D'Amora S, Continisio P. A controlled trial of the father's role in breastfeeding promotion. Pediatrics 2005;116:e494–e498. https://pubmed.ncbi.nlm.nih.gov/16199676/",
+  "Erlandsson K, Dsilna A, Fagerberg I, Christensson K. Skin-to-skin care with the father after cesarean birth and its effect on newborn crying and prefeeding behavior. Birth 2007;34:105–114. https://pubmed.ncbi.nlm.nih.gov/17542814/",
+  "Gettler LT, McDade TW, Feranil AB, Kuzawa CW. Longitudinal evidence that fatherhood decreases testosterone in human males. Proc Natl Acad Sci U S A 2011;108:16194–16199. https://pubmed.ncbi.nlm.nih.gov/21911391/",
+  "Abraham E, Hendler T, Shapira-Lichter I, Kanat-Maymon Y, Zagoory-Sharon O, Feldman R. Father's brain is sensitive to childcare experiences. Proc Natl Acad Sci U S A 2014;111:9792–9797. https://pubmed.ncbi.nlm.nih.gov/24912146/",
+  "Gettler LT, Kuo PX, Sarma MS, Trumble BC, Burke Lefever JE, Braungart-Rieker JM. Fathers' oxytocin responses to first holding their newborns. Dev Psychobiol 2021;63:1384–1398. https://pubmed.ncbi.nlm.nih.gov/33860940/",
+  "Paulson JF, Bazemore SD. Prenatal and postpartum depression in fathers and its association with maternal depression: a meta-analysis. JAMA 2010;303:1961–1969.",
+  "Petts RJ, Knoester C, Waldfogel J. Fathers' paternity leave-taking and children's perceptions of father-child relationships in the United States. Sex Roles 2020;82:173–188. https://pubmed.ncbi.nlm.nih.gov/32076360/",
+  "Rege M, Solli IF. The impact of paternity leave on fathers' future earnings. Demography 2013;50:2255–2277. https://pubmed.ncbi.nlm.nih.gov/24135861/",
+  "Rudman LA, Mescher K. Penalizing men who request a family leave: is flexibility stigma a femininity stigma? J Soc Issues 2013;69:322–340.",
+  "Coltrane S, Miller EC, DeHaan T, Stewart L. Fathers and the flexibility stigma. J Soc Issues 2013;69:279–302.",
+  "Petts RJ, Carlson DL, Knoester C. If I [take] leave, will you stay? Paternity leave and relationship stability. J Soc Policy 2020;49:829–849. https://pubmed.ncbi.nlm.nih.gov/33093710/",
+  "Petts RJ, Knoester C, Li Q. Paid paternity leave-taking in the United States. Community Work Fam 2020;23:162–183. https://pubmed.ncbi.nlm.nih.gov/32076386/",
+  "DeCasper AJ, Fifer WP. Of human bonding: newborns prefer their mothers' voices. Science 1980;208:1174–1176.",
+  "DeCasper AJ, Prescott PA. Human newborns' perception of male voices: preference, discrimination, and reinforcing value. Dev Psychobiol 1984;17:481–491. https://pubmed.ncbi.nlm.nih.gov/6479452/",
+  "Macfarlane A. Olfaction in the development of social preferences in the human neonate. Ciba Found Symp 1975;33:103–117.",
+  "Lamb ME. Father-infant and mother-infant interaction in the first year of life. Child Dev 1977;48:167–181.",
+  "Lucassen N, Tharner A, Van IJzendoorn MH, et al. The association between paternal sensitivity and infant-father attachment security: a meta-analysis of three decades of research. J Fam Psychol 2011;25:986–992. https://pubmed.ncbi.nlm.nih.gov/22004434/",
+  "De Wolff MS, van IJzendoorn MH. Sensitivity and attachment: a meta-analysis on parental antecedents of infant attachment. Child Dev 1997;68:571–591."
+ ],
+ "audio": "audio/day090.mp3",
+ "bytes": 5062701,
+ "seconds": 1266,
+ "sha256": "0cfb4f80f4938c619392825063a9bfc329eeb810ffc0a3893fea6f4e7fd2b28e",
+ "added": "2026-11-28T16:25:50Z"
+}

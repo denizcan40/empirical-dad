@@ -1,0 +1,27 @@
+{
+ "n": 91,
+ "key": "day091",
+ "title": "Day 91 · Week 13, Day 0 — Body: from building to growing — seventy-three grams to three and a half kilos, the three charts that disagree, what a percentile means, and the thirty grams of calcium",
+ "week": "Week 13, Day 0",
+ "summary": "Week 13: the baby is about 7.4 cm and ~73 g, sex organs complete inside, movements turning deliberate, sucking rehearsed — and the main job switches from building organs to growing. The Hadlock weight curve (73 g at 13 weeks to 3,619 g at 40: fast in proportion early, ~200 g a week late). Why crown-rump length stops at ~14 weeks, the five second-trimester measurements, and why a later scan doesn't move a well-dated due date (ACOG redating thresholds). The three charts — Hadlock 1991 (392 women), INTERGROWTH-21st standards (4,321 pregnancies, eight countries) and the WHO charts (1,387 women, ten countries; boys 3.5–4.5% larger, maternal height, age, weight and parity shift size) — and the standard-versus-reference argument. What a percentile is; fetal growth restriction (<10th percentile EFW or AC, severe <3rd, up to 10% of pregnancies, most serious before 32 weeks); constitutionally small babies; fundal height from 24 weeks with a 3 cm trigger. The skeleton: ~30 g of calcium at term, 80% in the third trimester, covered by a doubling of gut absorption; 1,000 mg/day intake; high-dose calcium halves preeclampsia only where diets are low in calcium (Cochrane 2018).",
+ "action": "Find the dating scan report in the pregnancy file. On a new 'Growth' page, write the confirmed due date and the gestational age the scan gave on the day it was done; add one question for the next appointment: 'Which fetal growth chart does the clinic use?'",
+ "sources": [
+  "NHS — 13 weeks pregnant. https://www.nhs.uk/pregnancy/week-by-week/13-to-27/13-weeks/",
+  "Hadlock FP, Harrist RB, Martinez-Poyer J. In utero analysis of fetal growth: a sonographic weight standard. Radiology 1991;181:129–133. https://pubmed.ncbi.nlm.nih.gov/1887021/",
+  "ACOG Committee Opinion No. 700. Methods for Estimating the Due Date. Obstet Gynecol 2017;129:e150–e154. https://pubmed.ncbi.nlm.nih.gov/28426621/",
+  "Papageorghiou AT, Ohuma EO, Altman DG, et al. International standards for fetal growth based on serial ultrasound measurements: the Fetal Growth Longitudinal Study of the INTERGROWTH-21st Project. Lancet 2014;384:869–879. https://pubmed.ncbi.nlm.nih.gov/25209488/",
+  "Villar J, Papageorghiou AT, Pang R, et al. The likeness of fetal growth and newborn size across non-isolated populations in the INTERGROWTH-21st Project. Lancet Diabetes Endocrinol 2014;2:781–792. https://pubmed.ncbi.nlm.nih.gov/25009082/",
+  "Kiserud T, Piaggio G, Carroli G, et al. The World Health Organization Fetal Growth Charts: a multinational longitudinal study of ultrasound biometric measurements and estimated fetal weight. PLoS Med 2017;14:e1002220. https://pubmed.ncbi.nlm.nih.gov/28118360/",
+  "Fetal Growth Restriction Before and After Birth. Am Fam Physician 2021;104:486–492 (summarising ACOG Practice Bulletin 204, 2019, and SMFM Consult Series #52, 2020). https://www.aafp.org/pubs/afp/issues/2021/1100/p486.html",
+  "Kovacs CS. Maternal mineral and bone metabolism during pregnancy, lactation, and post-weaning recovery. Physiol Rev 2016;96:449–547. https://pubmed.ncbi.nlm.nih.gov/26887676/",
+  "Hofmeyr GJ, Lawrie TA, Atallah ÁN, Torloni MR. Calcium supplementation during pregnancy for preventing hypertensive disorders and related problems. Cochrane Database Syst Rev 2018;10:CD001059. https://pubmed.ncbi.nlm.nih.gov/30277579/",
+  "NIH Office of Dietary Supplements — Calcium: Fact Sheet for Health Professionals. https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/",
+  "WHO. Guideline: Calcium supplementation in pregnant women (2013).",
+  "MedlinePlus — Fetal development. https://medlineplus.gov/ency/article/002398.htm"
+ ],
+ "audio": "audio/day091.mp3",
+ "bytes": 4846029,
+ "seconds": 1211,
+ "sha256": "95dc5ccdfd04ba098bcdf9794c8fb102898d06f4706e2d1c4abb9f17c490724e",
+ "added": "2026-11-28T16:25:50Z"
+}
